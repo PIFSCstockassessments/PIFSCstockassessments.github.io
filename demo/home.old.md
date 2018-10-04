@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: /
+permalink: /home/
 
 layout: home
 
@@ -39,11 +39,11 @@ graphics:
       alt: ''
     title: Never highlight anything without a goal.
     description: For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Could also have 2 or 6.
-    description: In addition to your goal, find out your users’ goals. [What do they want to know](https://18f.gsa.gov/) or do that supports your mission? Use these headings to show those.
+#  - image:
+#      src: /assets/uswds/img/circle-124.png
+#      alt: ''
+#    title: Could also have 2 or 6.
+#    description: In addition to your goal, find out your users’ goals. [What do they want to know](https://18f.gsa.gov/) or do that supports your mission? Use these headings to #show those.
 ---
 
 ## Section heading

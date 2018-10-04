@@ -1,5 +1,4 @@
-@mixin media-block-img($margin-right: 1rem) {
-  float: left;
+@mixin media-block-img($margin-right: 0rem) {
   margin-right: $margin-right;
 }
 

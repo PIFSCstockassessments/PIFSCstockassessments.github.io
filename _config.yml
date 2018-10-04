@@ -1,4 +1,4 @@
-title: This is the site title
+title: PIFSC Stock Assessment Program
 description: This is the site description.
 
 # GitHub information
@@ -7,6 +7,8 @@ github:
   organization: 18F
   repository: uswds-jekyll
   default_branch: master
+
+graphics-list-width: 3 #TODO: Limitto 
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line

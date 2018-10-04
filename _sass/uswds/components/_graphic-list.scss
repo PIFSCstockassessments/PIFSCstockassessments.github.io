@@ -24,12 +24,15 @@
   }
 
   .usa-media_block-img {
-    margin-right: $site-margins;
+    //margin-right: $site-margins;
+    margin-bottom: 0em;
+    display: inline-block;
   }
 
   .usa-media_block-body {
     > :first-child {
       margin-top: 0;
     }
+    text-align: center;
   }
 }

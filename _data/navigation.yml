@@ -30,16 +30,13 @@ primary:
         href: /two/c/
   - text: Referenced section
     links: footer
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
 
 secondary:
-  - text: Documentation
+  - text: About Us
     href: /docs/
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+  - text: NOAA PIFSC center
+#    href: https://www.pifsc.noaa.gov/
+#    external: true
 
 docs:
   - text: Sidenav Documentation
