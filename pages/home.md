@@ -27,19 +27,20 @@ graphics:
   - image:
       # src: /assets/uswds/img/circle-124.png
       src: /assets/img/team-images/team-placeholder.png
-      alt: ''
-    title: Graphic headings can vary.
+      alt: 'placeholder for Assessments'
+      href: /assesments/
+    title: Pelagic and Coastal Stock Assessments
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a semper leo. Nunc dolor metus, bibendum sed gravida non, rutrum ut turpis. Praesent viverra libero ut enim bibendum mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - image:
       src: /assets/img/team-images/team-placeholder.png
       alt: ''
-    title: Stick to 6 or fewer words.
+    title: Software Tools
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a semper leo. Nunc dolor metus, bibendum sed gravida non, rutrum ut turpis. Praesent viverra libero ut enim bibendum mattis.
   - image:
       # src: /assets/uswds/img/circle-124.png
       src: /assets/img/team-images/team-placeholder.png
       alt: ''
-    title: Never highlight anything without a goal.
+    title: Surveys
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque finibus dolor, sit amet facilisis nisi egestas ac. Phasellus cursus erat sit amet diam convallis, in semper nisi semper.
 ---
 

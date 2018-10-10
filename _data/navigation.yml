@@ -33,7 +33,7 @@ primary:
 
 secondary:
   - text: About Us
-    href: /docs/
+    href: /about/
   - text: NOAA PIFSC center
 #    href: https://www.pifsc.noaa.gov/
 #    external: true

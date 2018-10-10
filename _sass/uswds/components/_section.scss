@@ -35,3 +35,25 @@
     }
   }
 }
+
+.usa-section-dark-alt {
+  background-color: $color-primary-darker;
+  color: $color-white;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $color-white;
+  }
+
+  a{
+    color: $color-gray-lighter;
+
+    &:hover {
+      color: $color-white;
+    }
+  }
+}
