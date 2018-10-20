@@ -23,7 +23,7 @@ top:
 
 # Configuration for which links show at the top of the footer.
 # this is a key into _data/navigation.yml
-links: footer
+# links: footer
 
 # Configuration for footer heading. (optional)
 heading: NOAA Fisheries
@@ -35,7 +35,7 @@ logos:
   #   alt: 18F
   #   external: true
   # - src: "/assets/noaa-img/NOAAlogo_RGB_notxt_trans.png"
-    - src: "/assets/noaa-img/NOAAlogo-notext.svg"
+    - src: "/assets/pifsc/img/noaa-logo/NOAAlogo-notext.svg"
       alt: NOAA
 
 
@@ -56,14 +56,16 @@ contact:
   #    href: https://youtube.com
   #    external: true
   #    type: youtube
-  - text: RSS Feed
-    href: https://usa.gov/
-    external: true
-    type: rss
+  # - text: RSS Feed
+  #  href: https://usa.gov/
+  #  external: true
+  #  type: rss
   heading: Contact PIFSC
 # Configuration for contact links for email, phone, etc...
   contact_links:
     - text: 1845 Wasp Boulevard, Building 176, Honolulu, HI 96818
-    - text: (808) 725-5579 
-    - text: info@agency.gov
-      href: mailto:info@agency.gov
+      href: https://goo.gl/maps/8dZvZo1DocK2
+      external: true
+    - text: (808) 725-5360
+    - text: pifsc.info@noaa.gov
+      href: mailto:pifsc.info@noaa.gov

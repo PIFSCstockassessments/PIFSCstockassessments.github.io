@@ -1,0 +1,64 @@
+.sap-hero {
+  @include padding($site-margins null);
+  color: $color-white;
+  background-image: linear-gradient(rgba(0,0,0,0.20),rgba(0,0,0,0.20)),  url('#{$image-path}/hero.png');
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  text-align: left;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+      color: $color-white;
+    }
+
+}
+
+.usa-section{
+  .usa-hero-link {
+    color: $color-primary-alt;
+  }
+}
+
+.sap-hero-title {
+  color: $color-white;
+  padding: 3rem;
+
+  @include media($small-screen) {
+    min-width: 30rem;
+  }
+
+  > *:first-child {
+    @include margin(0 null $spacing-medium null);
+  }
+}
+
+.sap-hero-title-sub {
+  color: $color-white;
+
+  display: block;
+}
+
+.sap-hero-caption {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 auto;
+  padding: 0.3em 5px;
+  color: $color-white;
+  font-family: $font-sans;
+  font-size: $small-font-size;
+  background-color: $color-black;
+  text-align: right;
+  z-index: 5;
+  opacity: 0.6;
+  border-radius: $border-radius 0 0 0;
+
+  a{
+    color: $color-white;
+  }
+}

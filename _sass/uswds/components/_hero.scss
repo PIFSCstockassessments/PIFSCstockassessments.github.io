@@ -6,6 +6,7 @@
   background-image: url('#{$image-path}/hero.png');
   background-position: center;
   background-size: cover;
+  position: relative;
 
   .usa-button {
     color: $color-white;

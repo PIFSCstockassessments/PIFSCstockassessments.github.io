@@ -38,6 +38,31 @@ secondary:
 #    href: https://www.pifsc.noaa.gov/
 #    external: true
 
+assessment-nav:
+  - text: Stock Assessments
+    href: /assessments/
+  - text: Hawaiian Deep 7 Bottomfish
+    href: /assessments/mhi-bottomfish/
+  - text: Reeffish
+    href: /assessments/reeffish/
+  - text: Kona Crab
+    href: /assessments/kona-crab/
+  - text: U.S. Territorial Bottomfish
+    href: /assessments/us-territorial-bottomfish/
+  - text: Blue Shark
+    href: /assessments/blue-shark/
+  - text: Mako Shark
+    href: /assessments/mako-shark/
+  - text: Blue Marlin
+    href: /assessments/blue-marlin/
+  - text: Striped Marlin
+    href: /assessments/striped-marlin/
+  - text: Swordfish
+    href: /assessments/swordfish/
+
+
+
+
 docs:
   - text: Sidenav Documentation
     href: /docs/

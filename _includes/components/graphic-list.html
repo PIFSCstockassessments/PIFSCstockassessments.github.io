@@ -6,7 +6,13 @@
     <div class="usa-width-one-third usa-media_block">
       <div class="usa-media_block-body">
         <img class="usa-media_block-img"  src="{{ graphic.image.src | relative_url }}" alt="{{ graphic.image.alt }}">
-        {% if graphic.title %}<h3>{{ graphic.title }}</h3>{% endif %}
+        {% if graphic.title %}
+          <h3>
+            {% if graphic.link %}
+              <a href="{% if graphic.link.external %}{{ graphic.link.href }}{% else %}{{ graphic.link.href | relative_url }}{% endif %}">{{ graphic.title }}</a>
+            {%else%} {{ graphic.title }} {%endif%}
+          </h3>
+        {% endif %}
         {{ graphic.description | markdownify }}
       </div>
     </div>

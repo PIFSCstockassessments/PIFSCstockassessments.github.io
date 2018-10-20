@@ -34,11 +34,37 @@ graphics-list-width: 3 #TODO: Limitto
 # Configuration for projects and team collections
 # See https://jekyllrb.com/docs/collections/ for more information about collections.
 collections:
-   projects:
-     output: true
-   team:
-     output: true
+  assessments:
+    output: true
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      layout: home
+    values:
+      herohome: true
+  - scope:
+      path: "_assessments"
+      type: "assessments"
+    values:
+      layout: page-assessment
+      sidenav: assessment-nav
+      large_image: /assets/pifsc/img/noaa-logo/NOAAlogo-notext.svg
+      small_image: /assets/pifsc/img/noaa-logo/NOAAlogo-notext.svg
+      image_alt: NOAA Logo
+      sap-hero:
+        image: '/assets/pifsc/img/Chlorurus-frontalis-TateWester_banner.jpg'
+        opacity: 0.3
+        title:
+          text: Stock Assessment
+          sub: Lorem ipsum dolor sit amet.
+
+styles:
+  - /assets/main.css
 
 # Compress Sass
 sass:
   style: compressed
+  sass_dir: _sass

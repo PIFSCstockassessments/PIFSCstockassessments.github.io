@@ -1,0 +1,14 @@
+---
+# assets/main.scss
+---
+// set your variables or @import them here.
+
+// at the very least, you should set the USWDS font and image paths
+// to the correct paths relative to assets/main.css, like so:
+$font-path: 'uswds/fonts';
+$image-path: 'uswds/img';
+$pifsc-img-path: 'pifsc/img';
+
+@import 'uswds/all';
+
+@import 'pifsc/sap-hero';

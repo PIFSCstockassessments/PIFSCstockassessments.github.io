@@ -1,0 +1,22 @@
+{% if sap-hero %}
+<section class="sap-hero" {% if sap-hero.image %} style="background-image: linear-gradient(rgba(0, 0, 0,{{sap-hero.opacity | default : 0 }}), rgba(0, 0, 0, {{sap-hero.opacity | default: 0 }})), url('{{ sap-hero.image | relative_url }}')" {% endif %}>
+    <div class="usa-grid">
+      <div class="sap-hero-title usa-section">
+        {% if sap-hero.title %}
+          <h1 class="sap-hero-title-alt">
+            {{ sap-hero.title.text | default: sap-hero.title }} </h1>
+            {% if sap-hero.title.sub %}
+            <p class="sap-hero-title-sub">{{ sap-hero.title.sub }}</p>
+            {% endif %}
+
+        {% endif %}
+
+        {{ sap-hero.content | markdownify }}
+
+      </div>
+    </div>
+    {% if page.sap-hero.caption %}
+      <span class="sap-hero-caption">Photo: {{ page.sap-hero.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+    {% endif %}
+</section>
+{% endif %}

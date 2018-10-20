@@ -2,10 +2,11 @@
 layout: page
 ---
 
-
+<!--
 <aside class="usa-layout-docs-sidenav sidenav {% if page.sticky_sidenav %}usa-sticky-sidenav{% endif %}">
   <ul class="usa-sidenav-list">
-    {% for item in site.projects %}
+    {% assign sap-project = site.collections | where: "label", "assessments" | first %}
+    {% for item in sap-project %}
       <li>
         {% if page.permalink == item.permalink %}
           <a class="usa-current" href="{{ item.permalink | prepend: site.baseurl }}">{{ item.title }}</a>
@@ -16,9 +17,10 @@ layout: page
     {% endfor %}
   </ul>
 </aside>
+-->
 
 <div class="usa-width-three-fourths usa-layout-docs-main_content">
-  <h1>{{ page.title }}</h1>
+  <!-- <h1>{{ page.title }}</h1> -->
   <img src="{{ site.baseurl }}{{ page.large_image }}" alt="{{ page.image_alt }} ">
-  {{ content }}
+  {{ content | markdownify }}
 </div>
