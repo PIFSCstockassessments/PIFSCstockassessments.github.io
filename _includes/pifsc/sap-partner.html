@@ -1,0 +1,9 @@
+{% assign partner = include.partner %}
+{% if partner %}
+  <p>{{ partner.callout }}:</p>
+  <p>
+    <a href="{% if partner.external == true %}{{ partner.href }}{% else %}{{ partner.href | relative_url }}{% endif %}"
+     {% if partner.class %}class="{{ partner.class }}" {% endif %} >
+     {{ partner.name }} ({{ partner.org }})</a>
+  </p>
+{% endif %}

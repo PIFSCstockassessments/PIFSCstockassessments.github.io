@@ -2,22 +2,21 @@
 title: Striped Marlin
 permalink: /assessments/striped-marlin/
 description: Project description.
+partner: BILLWG
 
 subnav:
-- text: 2018
-  href: '#2018'
+- text: 2019
+  href: '#2019'
 - text: 2015
   href: '#2015'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum tortor lacus, vitae gravida:
+## 2019
 
-[International Scientific Committee (ISC) for Tuna and Tuna-Like Species in the North Pacific Ocean](http://isc.fra.go.jp/working_groups/billfish.html)
-
-## 2018
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dignissim ornare varius. Nulla suscipit est enim, nec porta augue auctor ut. Nulla congue finibus odio, vel hendrerit sem. Cras sed urna enim. Pellentesque congue iaculis mi ac vehicula. Nam nec feugiat quam. Nunc hendrerit ipsum at tincidunt mollis. Pellentesque habitant morbi tristique senectus et netus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ## 2015
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id neque tincidunt est viverra pretium vel et tortor. Praesent porttitor magna vel tortor tincidunt, in hendrerit elit laoreet. Suspendisse potenti. Nulla nec sagittis ligula. Nunc vel lectus lobortis, egestas nibh non, laoreet elit. Vestibulum dictum convallis pellentesque. In egestas metus.
+* [Link to Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC15/Annex11_WCNPO_STM_ASSESSMENT_REPORT_2015.pdf/)
+
+* [GitHub Source Code Repo](https://github.com/PIFSCstockassessments/North-Pacific-striped-marlin-2015)

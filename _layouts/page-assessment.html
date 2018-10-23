@@ -5,6 +5,7 @@ main:
 ---
 {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
 
+{% assign pifsc-partner = site.data.partners[page.partner] | default: page.partner %}
 
 {% if sidenav %}
   <aside class="usa-layout-docs-sidenav sidenav {% if page.sticky_sidenav %}usa-sticky-sidenav{% endif %}">
@@ -17,5 +18,9 @@ main:
     <h1>{{ page.title }}</h1>
   {% endif %}
     <img src="{{ site.baseurl }}{{ page.large_image }}" alt="{{ page.image_alt }} ">
+
+  {% if pifsc-partner %}
+    {% include sap-partner.html partner=pifsc-partner%}
+  {% endif %}
   {{ content }}
 </div>

@@ -2,31 +2,31 @@
 title: Swordfish
 permalink: /assessments/swordfish/
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit posuere.
+partner: BILLWG
 
 subnav:
-- text: 2016
-  href: '#2016'
-- text: 2013
-  href: '#2013'
-- text: 2011
-  href: '#2011'
+- text: 2018
+  href: '#2018'
+- text: 2014
+  href: '#2018'
 - text: 2009
   href: '#2009'
 
 ---
 
 
-## 2016
+## 2018
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a iaculis massa. Etiam tempus ac diam quis scelerisque. Nulla laoreet magna eget diam imperdiet, vel tincidunt nisi volutpat. Suspendisse vitae mauris dignissim, elementum ex vitae, placerat quam. Vivamus dolor ipsum, lacinia vitae aliquam ut, ornare nec lectus. Nam non massa ut nisl interdum convallis. Nullam eget faucibus sem, a dapibus quam. Nulla placerat pulvinar augue.
+* [Link to Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC18/ISC_18_ANNEX_16_Stock_Assessment_of_WCNPO_Swordfish_through_2016_FINAL.pdf)
 
-## 2013
+* [GitHub Source Code Repo](javascript:void(0))
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus nisi sed est sagittis consequat. Phasellus posuere non massa ac tristique. Vestibulum tincidunt enim condimentum, maximus purus auctor, malesuada magna. Mauris ornare venenatis enim, ac sollicitudin eros condimentum vitae.
 
-## 2011
+## 2014
 
-Nam fringilla ante purus, eget interdum nisi consectetur sit amet. Proin eget nibh suscipit, ornare dui non, placerat nunc. Cras volutpat mattis odio sed ultrices. Phasellus enim leo, porttitor nec leo in, ultricies fringilla turpis. Phasellus tempus feugiat mattis. Nam imperdiet tortor nisi, in fringilla nisi condimentum sed.
+* [Link to Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC14/Annex9-NP_Swordfish_Stock_Assessment_2014.pdf)
+
+* [GitHub Source Code Repo](javascript:void(0))
 
 ## 2009
 
