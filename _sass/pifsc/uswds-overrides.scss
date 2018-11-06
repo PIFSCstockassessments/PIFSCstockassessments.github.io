@@ -1,0 +1,52 @@
+.usa-header-basic {
+  .usa-navbar {
+    @include media($nav-width) {
+      position: relative;
+      width: 21%;
+    }
+  }
+}
+
+.usa-graphic_list {
+  .usa-graphic_list-row {
+
+    a:link{
+      text-decoration: none;
+      color: $color-primary;
+    }
+
+    a:visited{
+      text-decoration: none;
+      color: $color-primary;
+    }
+
+    a:hover{
+      text-decoration: underline;
+      color: $color-primary-alt;
+    }
+
+  }
+}
+
+
+.usa-hero {
+  .usa-button {
+    color: $color-primary-alt;
+  }
+}
+
+.usa-section-dark {
+  .usa-hero-link {
+    color: $color-primary-alt;
+  }
+
+  h2{
+    color: $color-white;
+  }
+
+  .usa-hero-callout-alt {
+    color: $color-primary-alt-light;
+    display: block;
+  }
+
+}

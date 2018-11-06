@@ -6,10 +6,10 @@
 
         {% if hero.callout %}
         <h2>
+          {{ hero.callout.text | default: hero.callout }}
           {% if hero.callout.alt %}
           <span class="usa-hero-callout-alt">{{ hero.callout.alt }}</span>
           {% endif %}
-          {{ hero.callout.text | default: hero.callout }}
         </h2>
         {% endif %}
 
