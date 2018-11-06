@@ -36,8 +36,12 @@ graphics-list-width: 3 #TODO: Limitto
 collections:
   assessments:
     output: true
-  projects:
+  packages:
     output: true
+  surveys:
+    output: true
+
+collections_dir: pifsc-sap-collections
 
 defaults:
   - scope:
@@ -49,7 +53,7 @@ defaults:
       path: "_assessments"
       type: "assessments"
     values:
-      layout: page-assessment
+      layout: page-sap-collections
       sidenav: assessment-nav
       large_image: /assets/pifsc/img/noaa-logo/NOAAlogo-notext.svg
       small_image: /assets/pifsc/img/noaa-logo/NOAAlogo-notext.svg
@@ -58,7 +62,31 @@ defaults:
         image: '/assets/pifsc/img/Chlorurus-frontalis-TateWester_banner.jpg'
         opacity: 0.3
         title:
-          text: Stock Assessment
+          text: Stock Assessments
+          sub: Lorem ipsum dolor sit amet.
+  - scope:
+      path: "_packages"
+      type: "packages"
+    values:
+      layout: page-sap-collections
+      sidenav: packages-nav
+      sap-hero:
+        image: /assets/pifsc/img/SWFSC-shark-hero-banner.jpg
+        opacity: 0.5
+        title:
+          text: Fisheries Tools and Pacakages
+          sub: PIFSC R packages and NOAA Fisheries Toolbox code
+  - scope:
+      path: "_surveys"
+      type: "surveys"
+    values:
+      layout: page-sap-collections
+      sap-hero:
+        image: /assets/pifsc/img/banner-ISSF-Yellowfin-JeffMuir-alt.jpg
+        opacity: 0.3
+        caption: Jeff Muir © ISSF
+        title:
+          text: Surveys
           sub: Lorem ipsum dolor sit amet.
 
 styles:

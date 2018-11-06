@@ -19,3 +19,10 @@ DAR:
   href: http://dlnr.hawaii.gov/dar/
   external: true
   callout: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum tortor lacus, vitae gravida
+
+NOAA-NFT:
+  name: NOAA Fisheries Toolbox
+  org: NOAA Fisheries Office & Technonogy (Northeast Fisheries Science Center)
+  href: https://www.nefsc.noaa.gov/nft/index.html
+  external: true
+  callout: AGEPRO program installer is provided by NOAA Fisheries Toolbox

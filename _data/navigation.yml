@@ -12,34 +12,27 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-      - text: Demo link D
-        href: /two/a/
-      - text: Demo link E
-        href: /two/b/
-      - text: Demo link F
-        href: /two/c/
-  - text: Referenced section
-    links: footer
+  - text: Stock Assessments
+    links: assessment-nav
+  - text: Tools & Pacakages
+    href: /packages/
+  - text: Surveys
+    href: /surveys/
+  - text: NOAA PIFSC
+    href: https://www.fisheries.noaa.gov/region/pacific-islands#science
+    external: true
+
 
 secondary:
   - text: About Us
     href: /about/
-  - text: NOAA PIFSC center
-#    href: https://www.pifsc.noaa.gov/
+  - text: NOAA PIFSC
+#    href: https://www.fisheries.noaa.gov/region/pacific-islands#science
 #    external: true
 
+
 assessment-nav:
-  - text: Stock Assessments
+  - text: What is a Stock Assessment? # Stock Assessments
     href: /assessments/
   - text: Hawaiian Deep 7 Bottomfish
     href: /assessments/mhi-bottomfish/
@@ -60,8 +53,16 @@ assessment-nav:
   - text: Swordfish
     href: /assessments/swordfish/
 
-
-
+packages-nav:
+  - text: Fisheries tools and packages
+    href: /packages/
+  - text: AGEPRO
+    href: /packages/AGEPRO/
+  - text: JABBA
+    href: /packages/JABBA/
+  - text: StepwiseLH
+  - text: Calibr
+  - text: TMB-LBSPR
 
 docs:
   - text: Sidenav Documentation

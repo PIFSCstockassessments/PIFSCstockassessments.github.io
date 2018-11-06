@@ -13,7 +13,7 @@ subnav:
 
 ## 2018
 
-* [Link to Assessment Report](/)
+* [Link to Assessment Report](javascript:void(0))
 
 * [GitHub Source Code Repo](https://github.com/PIFSCstockassessments/North-Pacific-Mako-Shark-2018)
 
