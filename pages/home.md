@@ -16,23 +16,26 @@ hero:
 graphics:
   - image:
       # src: /assets/uswds/img/circle-124.png
-      src: /assets/img/team-images/team-placeholder.png
-      alt: 'placeholder for Assessments'
+      src: /assets/pifsc/img/graphics-list/graphics-list-stock-assessment.jpg
+      alt: 'Fisheries Stock'
+      link: /assessments/
     title: Stock Assessments
     link:
       href: /assessments/
     description: Learn about the most recent stock assessments, including the data and computer scripts that were used to generate them.
   - image:
-      src: /assets/img/team-images/team-placeholder.png
-      alt: ''
+      src: /assets/pifsc/img/graphics-list/graphics-list-tools.jpg
+      alt: 'Three Dimensional Plot'
+      link: /packages/
     title: Fisheries tools & packages
     link:
       href: /packages/
     description: Discover new analytical tools developed by scientists in the Stock Assessment Program.
   - image:
       # src: /assets/uswds/img/circle-124.png
-      src: /assets/img/team-images/team-placeholder.png
-      alt: ''
+      src: /assets/pifsc/img/graphics-list/graphics-list-survey.jpg
+      alt: 'NOAA Fisheries Research Vessel'
+      link: /surveys/
     title: Surveys
     link:
       href: /surveys/
