@@ -79,10 +79,11 @@ defaults:
       type: "surveys"
     values:
       layout: page-sap-collections
+      sidenav: surveys-nav
       sap-hero:
-        image: /assets/pifsc/img/banner-ISSF-Yellowfin-JeffMuir-alt.jpg
-        opacity: 0.3
-        caption: Jeff Muir © ISSF
+        image: /assets/pifsc/img/banner/banner-noaa-hiialakai.jpg
+        opacity: 0.4
+        caption: NOAA Fisheries
         title:
           text: Surveys
           sub: Lorem ipsum dolor sit amet.

@@ -26,3 +26,10 @@ NOAA-NFT:
   href: https://www.nefsc.noaa.gov/nft/index.html
   external: true
   callout: AGEPRO program installer is provided by NOAA Fisheries Toolbox
+
+MRIP:
+  name: Marine Recreational Information program
+  org: NOAA Fisheries Office & Technonogy
+  href: https://www.st.nmfs.noaa.gov/recreational-fisheries/MRIP/
+  external: true
+  callout: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum tortor lacus, vitae gravida
