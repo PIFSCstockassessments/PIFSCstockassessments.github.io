@@ -20,7 +20,7 @@ main:
     <img src="{{ site.baseurl }}{{ page.large_image }}" alt="{{ page.image_alt }} ">
 
   {% if page.description %}
-    <p> {{page.description}} </p>
+    <p> {{page.description | newline_to_br }} </p>
   {% endif %}
 
   {% if pifsc-partner %}

@@ -63,8 +63,11 @@ packages-nav:
   - text: JABBA
     href: /packages/JABBA/
   - text: StepwiseLH
+    href: /packages/stepwiseLH/
   - text: Calibr
+    href: /packages/calibr/
   - text: TMB-LBSPR
+    href: /packages/tmb-lbspr/
 
 surveys-nav:
   - text: Fisheries Surveys
