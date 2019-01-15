@@ -68,7 +68,7 @@ defaults:
       layout: page-sap-collections
       sidenav: packages-nav
       sap-hero:
-        image: /assets/pifsc/img/SWFSC-shark-hero-banner.jpg
+        image: /assets/pifsc/img/banner/banner-SWFSC-shark.jpg
         opacity: 0.5
         title:
           text: Fisheries Tools and Pacakages
