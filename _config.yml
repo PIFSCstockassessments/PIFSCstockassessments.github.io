@@ -57,7 +57,7 @@ defaults:
       small_image: /assets/pifsc/img/noaa-logo/NOAAlogo-notext.svg
       image_alt: NOAA Logo
       sap-hero:
-        image: '/assets/pifsc/img/Chlorurus-frontalis-TateWester_banner.jpg'
+        image: '/assets/pifsc/img/banner/banner-Chlorurus-frontalis-TateWester.jpg'
         opacity: 0.3
         title:
           text: Stock Assessments
