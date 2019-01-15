@@ -13,7 +13,7 @@
 #
 primary:
   - text: Stock Assessments
-    links: assessment-nav
+    href: /assessments/
   - text: Tools & Pacakages
     href: /packages/
   - text: Surveys

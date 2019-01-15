@@ -61,7 +61,6 @@ defaults:
         opacity: 0.3
         title:
           text: Stock Assessments
-          sub: Lorem ipsum dolor sit amet.
   - scope:
       path: "_packages"
       type: "packages"
@@ -73,7 +72,6 @@ defaults:
         opacity: 0.5
         title:
           text: Fisheries Tools and Pacakages
-          sub: PIFSC R packages and NOAA Fisheries Toolbox code
   - scope:
       path: "_surveys"
       type: "surveys"
@@ -86,7 +84,6 @@ defaults:
         caption: NOAA Fisheries
         title:
           text: Surveys
-          sub: Lorem ipsum dolor sit amet.
 
 styles:
   - /assets/main.css
