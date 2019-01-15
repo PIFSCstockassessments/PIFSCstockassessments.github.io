@@ -2,6 +2,9 @@ source "https://rubygems.org"
 
 
 gem 'uswds-jekyll',  :path => '.'
+gem "jekyll-remote-theme"
+gem 'github-pages'
+
 
 group :jekyll_plugins do
   gem 'jekyll-last-modified-at'
