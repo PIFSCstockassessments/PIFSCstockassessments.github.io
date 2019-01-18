@@ -28,10 +28,11 @@
         </a>
         {% endif %}
 
-        {% if page.hero.caption %}
-          <span class="sap-hero-caption">Photo: {{ page.hero.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-        {% endif %}
     </div>
   </div>
+  {% if page.hero.caption %}
+    <span class="sap-hero-caption">Photo: {{ page.hero.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+  {% endif %}
+
 </section>
 {% endif %}
