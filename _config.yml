@@ -70,6 +70,7 @@ defaults:
       sap-hero:
         image: /assets/pifsc/img/banner/banner-SWFSC-shark.jpg
         opacity: 0.5
+        caption: NOAA Fisheries
         title:
           text: Fisheries Tools and Pacakages
   - scope:
