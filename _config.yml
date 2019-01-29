@@ -4,9 +4,9 @@ description: This is the site description.
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github:
-  organization: 18F
-  repository: uswds-jekyll
-  default_branch: master
+  organization: PIFSCstockassessments
+  repository: prototype-sap-gh-pages
+  default_branch: gh-pages
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
@@ -57,7 +57,7 @@ defaults:
       small_image: /assets/pifsc/img/noaa-logo/NOAAlogo-notext.svg
       image_alt: NOAA Logo
       sap-hero:
-        image: '/assets/pifsc/img/Chlorurus-frontalis-TateWester_banner.jpg'
+        image: '/assets/pifsc/img/banner/banner-Chlorurus-frontalis-TateWester.jpg'
         opacity: 0.3
         title:
           text: Stock Assessments
@@ -68,8 +68,9 @@ defaults:
       layout: page-sap-collections
       sidenav: packages-nav
       sap-hero:
-        image: /assets/pifsc/img/SWFSC-shark-hero-banner.jpg
+        image: /assets/pifsc/img/banner/banner-SWFSC-shark.jpg
         opacity: 0.5
+        caption: NOAA Fisheries
         title:
           text: Fisheries Tools and Pacakages
   - scope:
@@ -84,6 +85,11 @@ defaults:
         caption: NOAA Fisheries
         title:
           text: Surveys
+
+remote_theme: 18F/uswds-jekyll
+
+plugins:
+    - jekyll-remote-theme
 
 styles:
   - /assets/main.css
