@@ -99,10 +99,8 @@ docs:
     external: true
 
 footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link
-    href: /demo/
-  - text: External link
-    href: https://18f.gsa.gov
+  - text: About Us
+    href: /about/
+  - text: NOAA PIFSC
+    href: https://www.fisheries.noaa.gov/region/pacific-islands#science
     external: true
