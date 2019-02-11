@@ -4,7 +4,7 @@ permalink: /about/
 ---
 # About
 
-The NOAA Fisheries Stock Assessment Program is a part of Pacific Islands Fisheries Science Center's (PIFSC) [Fisheries Research and Monitoring Division (FRMD)](https://www.fisheries.noaa.gov/pacific-islands/monitoring-and-researching-fisheries-sustainability).  
+The Stock Assessment Program is a part of Pacific Islands Fisheries Science Center's (PIFSC) [Fisheries Research and Monitoring Division (FRMD)](https://www.fisheries.noaa.gov/pacific-islands/monitoring-and-researching-fisheries-sustainability).
 
 The Stock Assessment Program conducts research on population biology, stock assessment, and population modeling. The Program integrates biological, ecological, and oceanographic data to advance stock assessments and to inform conservation and resource management at both the species and ecosystem levels.
 
