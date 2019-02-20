@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: /assets/pifsc/img/hero/hero-truvali.jpg
+  image: /assets/pifsc/img/hero/hero-btm-ebisui_iii.jpg
   callout:
     text: Insuring sustainable fisheries # in the Pacific Islands
     alt: in the Pacific Islands
