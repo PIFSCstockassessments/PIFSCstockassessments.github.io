@@ -26,7 +26,7 @@ top:
 links: footer
 
 # Configuration for footer heading. (optional)
-heading: NOAA Fisheries
+#heading: PIFSCstockassessments
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
@@ -34,9 +34,6 @@ logos:
   # - src: https://18f.gsa.gov/assets/img/logos/18f-logo.svg
   #   alt: 18F
   #   external: true
-  # - src: "/assets/noaa-img/NOAAlogo_RGB_notxt_trans.png"
-    - src: "/assets/pifsc/img/noaa-logo/NOAAlogo-notext.svg"
-      alt: NOAA
 
 
 # Configuration for footer contact links
