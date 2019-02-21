@@ -26,7 +26,7 @@ top:
 links: footer
 
 # Configuration for footer heading. (optional)
-#heading: PIFSCstockassessments
+# heading: PIFSCstockassessments
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
