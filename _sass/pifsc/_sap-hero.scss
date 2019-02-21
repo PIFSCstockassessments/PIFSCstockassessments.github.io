@@ -18,6 +18,17 @@
 
 }
 
+.usa-grid{
+    .usa-hero-callout{
+        @include media($large-screen){
+            max-width: 45rem;
+            margin-bottom: 10rem;
+        }
+
+    }
+}
+
+
 .usa-section{
   .usa-hero-link {
     color: $color-primary-alt;

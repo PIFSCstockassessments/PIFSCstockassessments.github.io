@@ -7,10 +7,10 @@ layout: home
 hero:
   image: /assets/pifsc/img/hero/hero-btm-ebisui_iii.jpg
   callout:
-    text: Insuring sustainable fisheries # in the Pacific Islands
+    text: Advancing stock assessment science # in the Pacific Islands
     alt: in the Pacific Islands
     #text: Advancing stock assessment science in the Pacific Islands
-  content: By developing and improving population models, analytical tools, and fisheries surveys to generate the best available scientific information on the status of coastal and pelagic stocks in the Pacific region.   
+  content: By developing and improving population models, analytical tools, and fisheries surveys to generate state-of-the-art scientific information on the status of coastal and pelagic stocks in the Pacific region. 
   caption: NOAA Fisheries
 
 graphics:
