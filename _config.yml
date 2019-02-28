@@ -69,7 +69,7 @@ defaults:
         opacity: 0.5
         caption: NOAA Fisheries
         title:
-          text: Fisheries Tools and Pacakages
+          text: Fisheries Tools and Packages
   - scope:
       path: "_surveys"
       type: "surveys"
