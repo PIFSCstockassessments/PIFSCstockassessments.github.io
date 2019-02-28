@@ -13,7 +13,7 @@ subnav:
 
 ## 2019
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+The 2019 Striped Marlin Assessment is currently being worked on.
 
 ## 2015
 

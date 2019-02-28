@@ -23,10 +23,10 @@ subnav:
 
 * [Link to Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC14/Annex13-BSH_assessment_report_8-26-14-final.pdf)
 
-* [GitHub Source Code Repo](javascript:void(0))
+* GitHub Repo with source code related to the 2014 Blue Shark assessment is pending availability.
 
 ## 2013
 
 * [Link to Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC13/Annex11-Blue_shark_assessment-Final(SEPT).pdf)
 
-* [GitHub Source Code Repo](javascript:void(0))
+* GitHub Repo with source code related to the 2013 Blue Shark assessment is pending availability.

@@ -13,12 +13,10 @@ subnav:
 
 ## 2018
 
-* [Link to Assessment Report](javascript:void(0))
+* Link to the 2018 Kona Crab Assessment Report is pending availability.
 
 * [GitHub Source Code Repo](https://github.com/PIFSCstockassessments/kona-crab-2018)
 
 ## 2015
 
-* [Link to Assessment Report](javascript:void(0))
-
-* [GitHub Source Code Repo](javascript:void(0))
+* Links to the 2015 Kona Crab Assessment Report and GitHub Source Code Repo is pending availability.

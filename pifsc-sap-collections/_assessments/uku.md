@@ -10,6 +10,4 @@ subnav:
 
 ## 2020
 
-* [Link to Assessment Report](javascript:void(0))
-
-* [GitHub Source Code Repo](javascript:void(0))
+* Links to the 2020 Uku Snapper Assessment Report and Source Code Repo will is pending availability. 

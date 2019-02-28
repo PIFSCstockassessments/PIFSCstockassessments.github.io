@@ -15,20 +15,12 @@ subnav:
 
 ## 2018
 
-* [Link to Assessment Report (PDF)](javascript:void(0))
-
-* [GitHub Source Code Repo](javascript:void(0))
-
+* Links to the 2018 Main Hawaiian Islands "Deep 7" Bottomfish Assessment Report and GitHub Source Code Repo is pending availability.
 
 ## 2014
 
-* [Link to Assessment Report (PDF)](javascript:void(0))
-
-* [GitHub Source Code Repo](javascript:void(0))
-
+* Links to the 2014 Main Hawaiian Islands "Deep 7" Bottomfish Assessment Report and GitHub Source Code Repo is pending availability.
 
 ## 2011
 
-* [Link to Assessment Report (PDF)](javascript:void(0))
-
-* [GitHub Source Code Repo](javascript:void(0))
+* Links to the 2011 Main Hawaiian Islands "Deep 7" Bottomfish Assessment Report and GitHub Source Code Repo is pending availability.

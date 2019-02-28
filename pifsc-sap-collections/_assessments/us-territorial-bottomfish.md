@@ -15,20 +15,14 @@ subnav:
 
 ## 2019
 
-Vivamus augue augue, vehicula vel iaculis vel, venenatis nec ligula. Vestibulum non pretium purus.
+* 2019 U.S. Territorial Bottomfish Assessment Report is currently being worked on.
 
-* [Link to Assessment Report (PDF)](javascript:void(0))
-
-* [GitHub Source Code Repo](javascript:void(0))
+* [GitHub Source Code Repo](https://github.com/PIFSCstockassessments/TBottomfish-2019)
 
 ## 2016
 
-* [Link to Assessment Report (PDF)](javascript:void(0))
-
-* [GitHub Source Code Repo](javascript:void(0))
+* Links to the 2016 U.S. Territorial Bottomfish Assessment Report and GitHub Source Code Repo is pending availability.
 
 ## 2012
 
-* [Link to Assessment Report (PDF)](javascript:void(0))
-
-* [GitHub Source Code Repo](javascript:void(0))
+* Links to the 2012 U.S. Territorial Bottomfish Assessment Report and GitHub Source Code Repo is pending availability.

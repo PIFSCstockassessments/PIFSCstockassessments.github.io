@@ -18,10 +18,10 @@ subnav:
 
 * [Link to Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC16/ISC16_Annex_10_Stock_Assessment_Update_for_Blue_Marlin_in_the_Pacific_Ocean_through_2014(ISC2016).pdf)
 
-* [GitHub Source Code Repo](javascript:void(0))
+* GitHub Repo with Source Code related to the 2016 Blue Marlin assessment is pending availability.
 
 ## 2013
 
 * [Link to Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC13/Annex10-Blue_marlin_stock_assessment.pdf)
 
-* [GitHub Source Code Repo](javascript:void(0))
+* GitHub Repo with Source Code related to the 2013 Blue Marlin assessment is pending availability.
