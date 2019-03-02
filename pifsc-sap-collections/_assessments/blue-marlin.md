@@ -1,8 +1,7 @@
 ---
 title: Blue Marlin
 permalink: /assessments/blue-marlin/
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit posuere.
-assessment-type: pelagic
+description: Blue Marlin Assessment.
 partner: BILLWG
 
 subnav:
@@ -16,12 +15,12 @@ subnav:
 
 ## 2016
 
-* [Link to Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC16/ISC16_Annex_10_Stock_Assessment_Update_for_Blue_Marlin_in_the_Pacific_Ocean_through_2014(ISC2016).pdf)
+* [Link to the ISC BILLWG 2016 Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC16/ISC16_Annex_10_Stock_Assessment_Update_for_Blue_Marlin_in_the_Pacific_Ocean_through_2014(ISC2016).pdf)
 
 * GitHub Repo with Source Code related to the 2016 Blue Marlin assessment is pending availability.
 
 ## 2013
 
-* [Link to Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC13/Annex10-Blue_marlin_stock_assessment.pdf)
+* [Link to the ISC BILLWG 2013 Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC13/Annex10-Blue_marlin_stock_assessment.pdf)
 
 * GitHub Repo with Source Code related to the 2013 Blue Marlin assessment is pending availability.
