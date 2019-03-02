@@ -13,7 +13,7 @@ subnav:
 
 ## 2019 Guam
 
-* Links to the 2019 Guam Reeffish Assessment Report and the GitHub Source Code Repo related to the 2016 Blue Marlin assessment is pending availability.
+* Links to the 2019 Guam Reeffish Assessment Report and the GitHub Source Code is pending availability.
 
 ## 2017 Hawaii
 
