@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'uswds-jekyll', '~> 2.1'
+gem 'uswds-jekyll',  :path => '.'
 gem "jekyll-remote-theme"
 gem 'github-pages'
 

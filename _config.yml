@@ -1,12 +1,17 @@
 title: PIFSCstockassessments
 description: This is the site description.
 
+remote_theme: 18F/uswds-jekyll
+
+plugins:
+    - jekyll-remote-theme
+
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github:
   organization: PIFSCstockassessments
-  repository: prototype-sap-gh-pages
-  default_branch: gh-pages
+  repository: PIFSCstockassessments.github.io
+  default_branch: master
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
@@ -83,10 +88,6 @@ defaults:
         title:
           text: Surveys
 
-remote_theme: 18F/uswds-jekyll
-
-plugins:
-    - jekyll-remote-theme
 
 styles:
   - /assets/main.css
