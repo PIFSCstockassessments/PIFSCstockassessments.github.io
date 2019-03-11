@@ -1,9 +1,3 @@
-PATH
-  remote: .
-  specs:
-    uswds-jekyll (4.1.0)
-      jekyll (~> 3.4)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -264,7 +258,6 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-remote-theme
   tzinfo-data
-  uswds-jekyll!
   wdm (~> 0.1.0)
 
 BUNDLED WITH

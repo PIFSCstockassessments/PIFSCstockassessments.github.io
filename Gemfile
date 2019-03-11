@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-gem 'uswds-jekyll',  :path => '.'
+#gem 'uswds-jekyll',  :path => '.'
+gem 'github-pages', group: :jekyll_plugins
 gem "jekyll-remote-theme"
-gem 'github-pages'
 
 
 group :jekyll_plugins do
