@@ -11,4 +11,143 @@ $pifsc-img-path: 'pifsc/img';
 
 @import 'uswds/all';
 
-@import 'pifsc/all';
+//uswds-overrides -------------------------------------------------------
+.usa-header-basic {
+  .usa-navbar {
+    @include media($nav-width) {
+      position: relative;
+      width: 21%;
+    }
+  }
+}
+
+.usa-graphic_list {
+  .usa-graphic_list-row {
+
+    a:link{
+      text-decoration: none;
+      color: $color-gray-dark;
+    }
+
+    a:visited{
+      text-decoration: none;
+      color: $color-gray-dark;
+    }
+
+    a:hover{
+      text-decoration: underline;
+      color: $color-primary;
+    }
+
+    .usa-media_block-img{
+      margin-top: 10px;
+    }
+
+    .usa-media_block-img:hover{
+      box-shadow: 0px 0px 8px 0px $color-base;
+    }
+
+  }
+}
+
+
+.usa-hero {
+  .usa-button {
+    color: $color-primary-alt;
+  }
+}
+
+.usa-section-dark {
+  .usa-hero-link {
+    color: $color-primary-alt;
+  }
+
+  h2{
+    color: $color-white;
+  }
+
+  .usa-hero-callout-alt {
+    color: $color-primary-alt-light;
+    display: block;
+  }
+
+}
+
+
+//sap-hero -----------------------------------------------------------
+
+.sap-hero {
+  @include padding($site-margins null);
+  color: $color-white;
+  background-image: linear-gradient(rgba(0,0,0,0.20),rgba(0,0,0,0.20)),  url('#{$image-path}/hero.png');
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  text-align: left;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+      color: $color-white;
+    }
+
+}
+
+.usa-grid{
+    .usa-hero-callout{
+        @include media($large-screen){
+            max-width: 45rem;
+            margin-bottom: 10rem;
+        }
+
+    }
+}
+
+
+.usa-section{
+  .usa-hero-link {
+    color: $color-primary-alt;
+  }
+}
+
+.sap-hero-title {
+  color: $color-white;
+  padding: 3rem;
+
+  @include media($small-screen) {
+    min-width: 30rem;
+  }
+
+  > *:first-child {
+    @include margin(0 null $spacing-medium null);
+  }
+}
+
+.sap-hero-title-sub {
+  color: $color-white;
+
+  display: block;
+}
+
+.sap-hero-caption {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 auto;
+  padding: 0.3em 5px;
+  color: $color-white;
+  font-family: $font-sans;
+  font-size: $small-font-size;
+  background-color: $color-black;
+  text-align: right;
+  z-index: 5;
+  opacity: 0.6;
+  border-radius: $border-radius 0 0 0;
+
+  a{
+    color: $color-white;
+  }
+}
