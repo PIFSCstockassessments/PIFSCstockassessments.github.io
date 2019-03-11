@@ -1,6 +1,6 @@
 ---
 title: Uku Snapper
-permalink: /assessments/Uku/
+permalink: /assessments/uku/
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit posuere.
 
 subnav:
@@ -10,4 +10,4 @@ subnav:
 
 ## 2020
 
-* Links to the 2020 Uku Snapper Assessment Report and Source Code Repo will is pending availability. 
+* Links to the 2020 Uku Snapper Assessment Report and Source Code Repo will is pending availability.
