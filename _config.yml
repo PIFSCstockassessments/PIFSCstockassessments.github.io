@@ -8,10 +8,10 @@ plugins:
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
-github:
-  organization: PIFSCstockassessments
-  repository: PIFSCstockassessments.github.io
-  default_branch: master
+#github:
+#  organization: PIFSCstockassessments
+#  repository: PIFSCstockassessments.github.io
+#  default_branch: master
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
