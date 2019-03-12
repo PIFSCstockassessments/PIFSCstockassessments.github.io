@@ -1,8 +1,8 @@
 ---
+title: About Us
 layout: page
 permalink: /about/
 ---
-# About
 
 The Stock Assessment Program is a part of Pacific Islands Fisheries Science Center's (PIFSC) [Fisheries Research and Monitoring Division (FRMD)](https://www.fisheries.noaa.gov/pacific-islands/monitoring-and-researching-fisheries-sustainability).
 
