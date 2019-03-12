@@ -14,7 +14,7 @@
 primary:
   - text: Stock Assessments
     href: /assessments/
-  - text: Tools & Pacakages
+  - text: Tools & Packages
     href: /packages/
   - text: Surveys
     href: /surveys/
