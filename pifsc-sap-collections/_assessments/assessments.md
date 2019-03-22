@@ -2,9 +2,6 @@
 title: What is a stock assessment?
 layout: page-sap-collections
 permalink: /assessments/
-large_image: ""
-small_image: ""
-image_alt: ""
 
 sap-hero:
   caption: NOAA Fisheries/Tate Wester
