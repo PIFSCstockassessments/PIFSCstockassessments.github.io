@@ -8,9 +8,9 @@ small_image: /assets/pifsc/img/tools-pkg/Noaa-Icon-Agepro-64.png
 image_alt: AGEPRO Logo
 ---
 
-[Install AGEPRO (NOAA Fisheries Toolbox)](https://www.nefsc.noaa.gov/nft/AGEPRO.html) 
+[Install AGEPRO (NOAA Fisheries Toolbox)](https://www.nefsc.noaa.gov/nft/AGEPRO.html)
 
 ## Source Code
 
-* [AGEPRO-GUI Source on GitHub](https://github.com/PIFSCstockassessments/AGEPRO-GUI-src)
-* [AGEPRO-CoreLib Source on GitHub](https://github.com/PIFSCstockassessments/AGEPRO-CoreLib-src)
+* [AGEPRO-GUI Source on GitHub](https://github.com/PIFSCstockassessments/AGEPRO-GUI)
+* [AGEPRO-CoreLib Source on GitHub](https://github.com/PIFSCstockassessments/AGEPRO-CoreLib)
