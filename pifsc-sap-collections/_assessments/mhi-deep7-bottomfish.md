@@ -1,7 +1,10 @@
 ---
 title: Main Hawaiian Islands Deep 7 Bottomfish
 permalink: /assessments/mhi-bottomfish/
-description: Project description.
+description: |
+  Stock assessments for the deep 7 bottomfish complex in the Main Hawaiian Islands.
+
+  The deep 7 bottomfish complex comprises seven species of deepwater snapper/grouper species.
 
 subnav:
   - text: 2018
