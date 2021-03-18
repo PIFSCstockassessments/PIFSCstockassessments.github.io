@@ -18,7 +18,7 @@ The latest benchmark assessment was developed in 2018 and updated in 2021. The 2
 
 ## 2018
 
-* <https://www.fisheries.noaa.gov/resource/document/stock-assessment-main-hawaiian-islands-deep-7-bottomfish-complex-2018-catch>
+* Langseth B, Syslo J, Yau A, Kapur M, Brodziak J. 2018. [Stock Assessment for the Main Hawaiian Islands Deep 7 Bottomfish Complex in 2018, with Catch Projections Through 2022](https://www.fisheries.noaa.gov/resource/document/stock-assessment-main-hawaiian-islands-deep-7-bottomfish-complex-2018-catch)
 
 ## 2021
 

@@ -14,9 +14,8 @@ The most recent benchmark assessment was developed in 2019 and used a Bayesian s
 The PIFSC Stock Assessment Program is currently working on the next cutting-edge stock assessments for each Territorial Bottomfish complex, due to the Western Pacific Fisheries Management Council in 2023-2025. These assessments will incorporate ongoing scientific research, fisheries surveys, catch sampling, and advanced stock modeling approaches to best support the sustainable management of these important fisheries. 
 
 
-## Recent Publications
+## Publications
 
-* <https://repository.library.noaa.gov/view/noaa/16035> 
-* <https://www.fisheries.noaa.gov/resource/document/stock-assessments-bottomfish-management-unit-species-guam-commonwealth-northern>
-* 2021 Assessment update
+* Annie Yau, Marc Nadon, Benjamin Richards, Jon Brodziak, Eric Fletcher. 2016. [Stock assessment updates of the bottomfish management unit species of American Samoa, the Commonwealth of the Northern Mariana Islands, and Guam in 2015 using data through 2013](https://repository.library.noaa.gov/view/noaa/16035) 
+* Langseth B, Syslo J, Yau A, Carvalho F. 2019. [Stock Assessments of the Bottomfish Management Unit Species of Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa, 2019](https://www.fisheries.noaa.gov/resource/document/stock-assessments-bottomfish-management-unit-species-guam-commonwealth-northern)
 
