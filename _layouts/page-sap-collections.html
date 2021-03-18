@@ -13,20 +13,20 @@ main:
   </aside>
 {% endif %}
 
-<div class="usa-layout-docs-main_content">
-  {% if page.title %}
+  <div class="usa-layout-docs-main_content">
+    {% if page.title %}
     <h1>{{ page.title }}</h1>
-  {% endif %}
-  {% if page.large_image %}
+    {% endif %}
+    {% if page.large_image %}
     <img src="{{ site.baseurl }}{{ page.large_image }}" alt="{{ page.image_alt }} ">
-  {% endif %}
+    {% endif %}
 
-  {% if page.description %}
+    {% if page.description %}
     <p> {{page.description | newline_to_br }} </p>
-  {% endif %}
+    {% endif %}
 
-  {% if pifsc-partner %}
-    {% include sap-partner.html partner=pifsc-partner%}
-  {% endif %}
-  {{ content }}
-</div>
+    {{ content }}
+    <!-- {% if pifsc-partner %}
+      {% include sap-partner.html partner=pifsc-partner%}
+    {% endif %} -->
+  </div>

@@ -49,8 +49,8 @@ collections_dir: pifsc-sap-collections
 defaults:
   - scope:
       path: ""
-      layout: home
     values:
+      layout: home
       herohome: true
   - scope:
       path: "_assessments"

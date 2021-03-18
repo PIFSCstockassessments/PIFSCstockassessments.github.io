@@ -32,7 +32,7 @@ secondary:
 
 
 assessment-nav:
-  - text: What is a Stock Assessment? # Stock Assessments
+  - text: PIFSC Stock Asessment Program # Stock Assessments
     href: /assessments/
   - text: Hawaiian Deep 7 Bottomfish
     href: /assessments/mhi-bottomfish/
