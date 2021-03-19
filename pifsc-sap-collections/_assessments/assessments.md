@@ -23,5 +23,4 @@ In addition to conducting stock assessments, other crucial activities and contri
 
 - Applying advanced statistical methods to analyze catch and effort data from the recreational and subsistence fishing conducted in Hawaii and the Western Pacific U.S. territories, which includes American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.   
 
-### Recent Publications
 
