@@ -18,3 +18,7 @@ JABBA was conceived in the Hawaiian Summer of 2015 as a collaboration between yo
 ## Reference
 
 [Winker, H., Carvalho, F., Kapur, M. (2018) JABBA: Just Another Bayesian Biomass Assessment. *Fisheries Research* **204**: 275-288.](https://www.sciencedirect.com/science/article/pii/S0165783618300845)
+
+[Winker, H., Carvalho, F., Thorson, J.T., Kell, L.T., Parker, D., Kapur, M., Sharma, R., Booth, A.J., Kerwath, S.E., 2020. JABBA-Select: incorporating life history and fisheries’
+selectivity into surplus production models. Fish. Es. 222, 105355.](https://www.sciencedirect.com/science/article/abs/pii/S0165783619302103)
+
