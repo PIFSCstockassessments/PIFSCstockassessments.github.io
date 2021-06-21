@@ -22,5 +22,5 @@ The latest benchmark assessment was developed in 2018 and updated in 2021. The 2
 
 ## 2021
 
-* Link to the 2021 Main Hawaiian Islands "Deep 7" Bottomfish Assessment Report will be available during its publication.
+* Syslo J, Brodziak J, Carvalho F. 2021. [Stock Assessment Update for the Main Hawaiian Islands Deep 7 Bottomfish Complex in 2021, with Catch Projections Through 2025.](https://repository.library.noaa.gov/view/noaa/30604)
 
