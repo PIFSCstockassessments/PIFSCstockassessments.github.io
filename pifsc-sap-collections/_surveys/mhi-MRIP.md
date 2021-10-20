@@ -11,7 +11,7 @@ The Marine Recreational Information Program (MRIP) has been actively involved wi
 
 MRIP has worked with other partners to carry out several MRIP projects, review HMRFS and test alternative survey methods. The major MRIP projects in Hawaii include:
 
-* The Hawaii For-Hire Pilot Study to Incorporate Validation Procedures in the Commercial Marine License Reporting Program documented the “for-hire” (charter boat) sector’s level of compliance with the Hawaii Division of Aquatic Resources (DAR) commercial fish catch reporting system : [(https://repository.library.noaa.gov/view/noaa/12711/)](https://repository.library.noaa.gov/view/noaa/12711/)
+* The Hawaii For-Hire Pilot Study to Incorporate Validation Procedures in the Commercial Marine License Reporting Program documented the “for-hire” (charter boat) sector’s level of compliance with the Hawaii Division of Aquatic Resources (DAR) commercial fish catch reporting system : [(https://repository.library.noaa.gov/view/noaa/4605)](https://repository.library.noaa.gov/view/noaa/4605)
   * Identified a series of recommended changes to improve the system: [https://repository.library.noaa.gov/view/noaa/5010](https://repository.library.noaa.gov/view/noaa/5010)
 
 * Review of the Current Sampling and Estimation Methods of the Hawaii Marine Recreational Fishing Survey (HMRFS), completed by a team of expert consultants, identifies opportunities and makes recommendations to improve the angler catch survey and the Coastal Household Telephone Survey in Hawaii (project report at [https://repository.library.noaa.gov/view/noaa/12711)](https://repository.library.noaa.gov/view/noaa/12711)
