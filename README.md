@@ -2,7 +2,7 @@
 
 # About
 
-This is the Github site for the Stock Assessment Program of the [Pacific Island Fisheries Science Center's (PIFSC)](https://www.fisheries.noaa.gov/region/pacific-islands#science), which can be found at [https://PIFSCstockassessments.github.io]. This uses the [Jekyll theme](https://jekyllrb.com/docs/themes/) for the [U.S. Web Design System](https://designsystem.digital.gov/). 
+This is the Github site for the Stock Assessment Program of the [Pacific Island Fisheries Science Center's (PIFSC)](https://www.fisheries.noaa.gov/region/pacific-islands#science), which can be found at [https://PIFSCstockassessments.github.io](https://PIFSCstockassessments.github.io). This uses the [Jekyll theme](https://jekyllrb.com/docs/themes/) for the [U.S. Web Design System](https://designsystem.digital.gov/). 
 
 
 # Disclaimer
