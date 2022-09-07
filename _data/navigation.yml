@@ -58,6 +58,8 @@ assessment-nav:
 packages-nav:
   - text: Fisheries tools and packages
     href: /packages/
+  - text: ss3diags
+    href: /packages/ss3diags/
   - text: AGEPRO
     href: /packages/AGEPRO/
   - text: JABBA
