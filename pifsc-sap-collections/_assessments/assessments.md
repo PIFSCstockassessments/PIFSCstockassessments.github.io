@@ -7,20 +7,18 @@ sap-hero:
   caption: NOAA Fisheries
 ---
 
-[Stock assessment research](https://www.fisheries.noaa.gov/topic/population-assessments#fish-stocks) is at the core of NOAA's science-based management objectives and is the primary function of the Pacific Islands Fishery Science Center Stock Assessment Program (PIFSC SAP). 
+[Stock assessment](https://www.fisheries.noaa.gov/topic/population-assessments#fish-stocks) is at the core of NOAA's science-based management objectives and is the primary function of the PIFSC Stock Assessment Program (SAP). 
 
-The Western Pacific stocks assessed have strong cultural and economic significance in the region and the assessments are crucial for maintaining these resources at sustainable levels.
+The Assessment Program (SAP) at the NOAA Pacific Islands Fisheries Science center conducts evaluations of the current and historical population status of bottomfish species and crustaceans in support of the Western Pacific Regional Fishery Management Council (WPRFMC) management plans for the nation’s fisheries based in the Western Pacific Region. The WPRFMC and NOAA Fisheries use these evaluations to set Annual Catch Limits (ACLs).
 
-The analyses conducted by the SAP team at the NOAA PIFSC directly support management plans and setting Annual Catch Limits (ACLs) for bottomfish and crustacean species in the Main Hawaiian Islands and U.S. Territories of American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
+The SAP also performs analyses in support of U.S. participation in international Regional Fishery Management Organizations (RFMOs) and Regional Fishery Science Organizations (RFSOs). For example, the SAP works with scientists from other nations within the International Scientific Committee on Tuna and Tuna-like Species in the North Pacific Ocean (ISC) to conduct collaborative stock assessments on tuna, billfish and shark stocks spanning the Pacific, supporting fisheries worth many billions of dollars and making critical contribution to the Pacific Islands regional economy. SAP scientists play an essential role in these international stock assessments, including serving as lead analysts and chairing working groups. 
 
-The SAP also performs analyses in support of U.S. participation in international Regional Fishery Management Organizations (RFMOs). For example, SAP scientists collaborate with scientists from other nations to conduct stock assessments on billfish and shark stocks in the Pacific. For these international stock assessments, SAP scientists fulfill essential roles, including serving as lead analysts and chairing working groups.
+In addition to conducting stock assessments,  other crucial activities developed by the SAP include:
 
-In addition to conducting stock assessments, other crucial activities and contributions of the SAP team include:
+- Helping the design and implementation of the annual Bottomfish Fishery-Independent Survey in Hawaii (BFISH). The BFISH assesses the number and size of bottomfish around all eight of the Main Hawaiian Islands by collecting data at various scientifically-selected sites. 
 
-- Helping with the design and implementation of the annual Bottomfish Fishery-Independent Survey in Hawaii (BFISH) which assesses the number and size of seven bottomfish species around all eight of the Main Hawaiian Islands.
+- Apply advanced statistical methods to analyze catch and effort data from the recreational and subsistence fishing conducted in Hawaii and the U.S. territories of Western Pacific Region, which includes American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
 
-- Providing statistical expertise to the NOAA Fisheries Pacific Islands Regional Office Longline Fishery Observer Program efforts to estimate the magnitude of incidental takes of sea turtles, seabirds, and marine mammals, as well as the bycatch of non-marketed fish species in the Hawaii longline fishery.
-
-- Applying advanced statistical methods to analyze catch and effort data from the recreational and subsistence fishing conducted in Hawaii and the Western Pacific U.S. territories, which includes American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.   
+- Host the NMFS Cooperative Research Program. Cooperative research provides a means for commercial and recreational fishermen to become involved in the collection of important fisheries information to support the development and evaluation of fishery management options. 
 
 
