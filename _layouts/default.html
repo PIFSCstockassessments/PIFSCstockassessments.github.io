@@ -5,6 +5,10 @@
   <head>
     {% include meta.html %}
     {% include styles.html %}
+    <!-- Include MathJax -->
+    {% if page.mathjax %}
+      {% include mathjax.html %} 
+    {% endif %}
     {% if site.google_analytics_ua or site.dap_agency %}
       {% include analytics.html %}
     {% endif %}
