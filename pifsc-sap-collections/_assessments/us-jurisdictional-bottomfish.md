@@ -38,6 +38,7 @@ For the CNMI, the stock was healthy (not overfished and not experiencing overfis
 
 ## Publications
 
-* Langseth, Brian J. et al. (2019). Stock assessments of the bottomfish management unit species of Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa, 2019. [https://doi.org/10.25923/bz8b-ng72](https://doi.org/10.25923/bz8b-ng72)
 * Nadon, Marc O. et al. (2023). Stock Assessment of American Samoa Bottomfishes, 2023. [https://doi.org/10.25923/0sd4-9a69](https://doi.org/10.25923/0sd4-9a69)
+* Langseth, Brian J. et al. (2019). Stock assessments of the bottomfish management unit species of Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa, 2019. [https://doi.org/10.25923/bz8b-ng72](https://doi.org/10.25923/bz8b-ng72)
+
 
