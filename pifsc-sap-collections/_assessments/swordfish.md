@@ -16,7 +16,7 @@ The most recent benchmark stock assessment for the WCNPO swordfish stock was con
 
 ## Publications
 
-* [ISC BILLWG 2018 Assessment Report (PDF)](http://isc.fra.go.jp/pdf/ISC18/ISC_18_ANNEX_16_Stock_Assessment_of_WCNPO_Swordfish_through_2016_FINAL.pdf)
+* [ISC BILLWG 2023 Assessment Report (PDF)](https://isc.fra.go.jp/pdf/ISC23/ISC23_ANNEX11-Stock_Assessment_Report_for_North_Pacific_Ocean_Swordfish_FINAL.pdf)
 
 
 
