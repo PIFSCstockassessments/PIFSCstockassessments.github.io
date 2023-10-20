@@ -11,7 +11,7 @@ sap-hero:
 
 The Assessment Program (SAP) at the NOAA Pacific Islands Fisheries Science center conducts evaluations of the current and historical population status of bottomfish species and crustaceans in support of the Western Pacific Regional Fishery Management Council (WPRFMC) management plans for the nation’s fisheries based in the Western Pacific Region. The WPRFMC and NOAA Fisheries use these evaluations to set Annual Catch Limits (ACLs).
 
-The SAP also performs analyses in support of U.S. participation in international Regional Fishery Management Organizations (RFMOs) and Regional Fishery Science Organizations (RFSOs). 
+The SAP also performs analyses in support of U.S. participation in international Regional Fishery Management Organizations (RFMOs). 
 
 For example, the SAP works with scientists from other nations within the International Scientific Committee on Tuna and Tuna-like Species in the North Pacific Ocean (ISC) to conduct collaborative stock assessments on tuna, billfish and shark stocks spanning the Pacific, supporting fisheries worth many billions of dollars and making critical contribution to the Pacific Islands regional economy. 
 
