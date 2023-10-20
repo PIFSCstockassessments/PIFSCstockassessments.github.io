@@ -4,8 +4,8 @@ permalink: /assessments/us-jurisdictional-bottomfish/
 subnav:
   - text: American Samoa
     href: '#american-samoa'
-  - text: Guam and CMNI
-    href: '#guam-and-cmni'
+  - text: Guam and CNMI
+    href: '#guam-and-cnmi'
 
 sap-hero:
   caption: NOAA Fisheries
