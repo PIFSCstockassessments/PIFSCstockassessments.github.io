@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "PIFSC Stock Assessments"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+    style: "floating"
+    contents:
+      - text: "Index"
+        href: index.qmd
+      - section: "Stock Recruitment"
+        href: assessments.qmd
+        contents:
+          - assessments/blue-marlin.qmd
+          - about.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+
