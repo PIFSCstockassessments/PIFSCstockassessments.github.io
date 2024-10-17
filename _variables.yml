@@ -1,0 +1,35 @@
+
+
+
+# Partners
+
+partner:
+    BILLWG:
+    name: ISC Billfish Working Group
+    org: International Scientific Committee for Tuna and Tuna-Like Species in the North Pacific Ocean (ISC)
+    href: https://isc.fra.go.jp/working_groups/billfish.html
+    external: true
+
+  SHARKWG:
+    name: ISC Shark Working Group
+    org: International Scientific Committee for Tuna and Tuna-Like Species in the North Pacific Ocean (ISC)
+    href:  https://isc.fra.go.jp/working_groups/shark.html
+    external: true
+
+  DAR:
+    name: Division of Aquatic Resources
+    org: State of Hawaii
+    href: https://dlnr.hawaii.gov/dar/
+    external: true
+
+  NOAA-NFT:
+    name: NOAA Fisheries Toolbox
+    org: NOAA Fisheries Office & Technonogy (Northeast Fisheries Science Center)
+    href: https://www.nefsc.noaa.gov/nft/index.html
+    external: true
+
+  MRIP:
+    name: Marine Recreational Information program
+    org: NOAA Fisheries Office & Technonogy
+    href: https://www.st.nmfs.noaa.gov/recreational-fisheries/MRIP/
+    external: true
