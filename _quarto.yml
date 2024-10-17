@@ -22,6 +22,7 @@ website:
           - assessments/mako-shark.qmd
           - assessments/mhi-deep7-bottomfish.qmd
           - assessments/reeffish.qmd
+          - assessments/striped-marlin.qmd
 
 
 format:
