@@ -19,6 +19,7 @@ website:
           - assessments/blue-marlin.qmd
           - assessments/blue-shark.qmd
           - assessments/kona-crab.qmd
+          - assessments/mako-shark.qmd
 
 
 format:
