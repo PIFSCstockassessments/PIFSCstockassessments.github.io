@@ -17,7 +17,7 @@ website:
         href: assessments.qmd
         contents:
           - assessments/blue-marlin.qmd
-          - about.qmd
+          - assessments/blue-shark.qmd
 
 
 format:
