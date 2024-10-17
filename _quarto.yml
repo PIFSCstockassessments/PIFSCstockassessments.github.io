@@ -21,6 +21,7 @@ website:
           - assessments/kona-crab.qmd
           - assessments/mako-shark.qmd
           - assessments/mhi-deep7-bottomfish.qmd
+          - assessments/reeffish.qmd
 
 
 format:
@@ -29,5 +30,6 @@ format:
     css: styles.css
     toc: true
 
-editor: source
+editor:
+  mode: source
 
