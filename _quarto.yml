@@ -23,7 +23,7 @@ website:
           - assessments/mhi-deep7-bottomfish.qmd
           - assessments/reeffish.qmd
           - assessments/striped-marlin.qmd
-
+          - assessments/swordfish.qmd
 
 format:
   html:
