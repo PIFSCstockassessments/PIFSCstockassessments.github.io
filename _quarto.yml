@@ -30,6 +30,7 @@ website:
         href: tools-pkg/tools-packages.qmd
         contents:
           - tools-pkg/ss3diags.qmd
+          - tools-pkg/JABBA.qmd
 
 format:
   html:
