@@ -25,6 +25,7 @@ website:
           - assessments/striped-marlin.qmd
           - assessments/swordfish.qmd
           - assessments/uku-snapper.qmd
+          - assessments/us-jurisdictional-bottomfish.qmd
 
 format:
   html:
