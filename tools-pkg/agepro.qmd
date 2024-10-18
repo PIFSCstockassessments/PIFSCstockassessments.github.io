@@ -1,5 +1,6 @@
 ---
-title: Age Structured Projection Model (AGEPRO)
+title: AGEPRO
+subtitle: Age Structured Projection Model
 ---
 
 ![](../assets/img/tools-pkg/noaa-icon-agepro-128.png){fig-alt="Age Structured Projection Model (AGEPRO) Icon"}

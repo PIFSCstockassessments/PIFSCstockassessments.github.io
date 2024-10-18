@@ -1,5 +1,6 @@
 ---
-title: JABBA&#58; Just Another Bayesian Biomass Assessment
+title: JABBA
+subtitle: Just Another Bayesian Biomass Assessment
 ---
 
 ![](../assets/img/tools-pkg/noaa-jabba-logo-large.jpg){fig-alt="JABBA - Just Another Bayesian Biomass Assessment"}
