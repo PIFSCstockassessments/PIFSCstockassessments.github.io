@@ -31,6 +31,8 @@ website:
         contents:
           - tools-pkg/ss3diags.qmd
           - tools-pkg/JABBA.qmd
+          - tools-pkg/agepro.qmd
+          - tools-pkg/stepwiseLH.qmd
 
 format:
   html:

@@ -1,0 +1,16 @@
+---
+title: StepwiseLH
+subtitle: Life History Stepwise Probability Distributions based on data-limited fisheries
+---
+
+This R package allows fisheries scientists to generate probability distributions for missing life history parameters of sharks, groupers, and other taxa to assist data-limited stock assessments
+
+## Repository
+
+<https://github.com/PIFSCstockassessments/StepwiseLH>
+
+## References
+
+-   Nadon, M. O., and J. S. Ault. 2016. A stepwise stochastic simulation approach to estimate life history parameters for data-poor fisheries. Can. J. Fish. Aquat. Sci. 73:1874–1884. <https://doi.org/10.1139/cjfas-2015-0303>
+
+-   Erickson, A. K., and Nadon, O. M. 2021. An extension of the stepwise stochastic simulation approach for estimating distributions of missing life history parameter values for sharks, groupers, and other taxa. Fish. Bull. 119(1): 77-92. <https://doi.org/10.7755/fb.119.1.9>

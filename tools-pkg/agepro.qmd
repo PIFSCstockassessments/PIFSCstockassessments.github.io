@@ -1,0 +1,27 @@
+---
+title: Age Structured Projection Model (AGEPRO)
+---
+
+![](../assets/img/tools-pkg/noaa-icon-agepro-128.png){fig-alt="Age Structured Projection Model (AGEPRO) Icon"}
+
+The Age Structured Projection Model (AGEPRO) is a projection model for an age-structured fish stock harvested by one or more fleets.
+
+## AGEPRO GUI releases
+
+-   [AGEPRO GUI interface (Github)](https://github.com/PIFSCstockassessments/AGEPRO-GUI/releases/)
+-   [NOAA Fish and Fisheries Tools link (fish-tools)](https://nmfs-fish-tools.github.io/AGEPRO/)
+
+The command line based AGEPRO "Calculation Engine" is included in the AGEPRO GUI installation.
+
+## AGEPRO "Calculation Engine" Command Line Script Source code
+
+-   [AGEPRO "Calculation Engine" Source (GitHub)](https://github.com/PIFSCstockassessments/AGEPRO)
+
+## AGEPRO GUI Source Code
+
+-   [AGEPRO-GUI Source (GitHub)](https://github.com/PIFSCstockassessments/AGEPRO-GUI)
+-   [AGEPRO-CoreLib Source (GitHub)](https://github.com/PIFSCstockassessments/AGEPRO-CoreLib)
+
+## References
+
+-   Brodziak, J., P. Rago, and R. Conser. 1998. A general approach for making short-term stochastic projections from an age-structured fisheries assessment model. In F. Funk, T. Quinn II, J. Heifetz, J. Ianelli, J. Powers, J. Schweigert, P. Sullivan, and C.-I. Zhang (Eds.), Proceedings of the International Symposium on Fishery Stock Assessment Models for the 21st Century. Alaska Sea Grant College Program, Univ. of Alaska, Fairbanks.<https://doi.org/10.4027/fsam.1998.52>
