@@ -27,7 +27,7 @@ website:
           - assessments/uku-snapper.qmd
           - assessments/us-jurisdictional-bottomfish.qmd
       - text: "Tools & Packages"
-        href: tools-packages/tools-packages.qmd
+        href: tools-pkg/tools-packages.qmd
 
 format:
   html:
