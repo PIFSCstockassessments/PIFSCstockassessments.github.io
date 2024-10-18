@@ -26,6 +26,8 @@ website:
           - assessments/swordfish.qmd
           - assessments/uku-snapper.qmd
           - assessments/us-jurisdictional-bottomfish.qmd
+      - text: "Tools & Packages"
+        href: tools-packages/tools-packages.qmd
 
 format:
   html:
