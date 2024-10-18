@@ -14,4 +14,4 @@ The fishery-independent index of relative abundance data was from the Pacific Re
 
 The assessment was the first successful implementation of an integrated Stock Synthesis model in Hawai'i and marks a milestone for the stock assessment program and the future of conservation of marine resources in Hawai'i.
 
--   Nadon, Marc O.; Sculley, Michelle; Carvalho, Felipe. 2020. [Stock assessment of uku (Aprion virescens) in Hawaii, 2020](https://repository.library.noaa.gov/view/noaa/24190)
+-   Nadon, Marc O.; Sculley, Michelle; Carvalho, Felipe. 2020. [Stock assessment of uku (Aprion virescens) in Hawaii, 2020](https://doi.org/10.25923/57nb-8138)
