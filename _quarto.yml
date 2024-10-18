@@ -24,6 +24,7 @@ website:
           - assessments/reeffish.qmd
           - assessments/striped-marlin.qmd
           - assessments/swordfish.qmd
+          - assessments/uku-snapper.qmd
 
 format:
   html:
