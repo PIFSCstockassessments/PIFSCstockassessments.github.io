@@ -3,7 +3,7 @@ title: JABBA
 subtitle: Just Another Bayesian Biomass Assessment
 ---
 
-![](../assets/img/tools-pkg/noaa-jabba-logo-large.jpg){fig-alt="JABBA - Just Another Bayesian Biomass Assessment"}
+![](../assets/img/tools-pkgs/noaa-jabba-logo-large.jpg){fig-alt="JABBA - Just Another Bayesian Biomass Assessment"}
 
 The motivation for developing JABBA was to provide a user-friendly R to JAGS interface for fitting generalized Bayesian State-Space SPMs with the aim to generate reproducible stock status estimates and diagnostics.
 

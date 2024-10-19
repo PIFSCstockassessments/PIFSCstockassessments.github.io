@@ -24,13 +24,13 @@ website:
           - assessments/uku-snapper.qmd
           - assessments/us-jurisdictional-bottomfish.qmd
       - section: "Tools & Packages"
-        href: tools-pkg/tools-packages.qmd
+        href: tools-pkgs/tools-packages.qmd
         contents:
-          - tools-pkg/ss3diags.qmd
-          - tools-pkg/JABBA.qmd
-          - tools-pkg/agepro.qmd
-          - tools-pkg/stepwiseLH.qmd
-          - tools-pkg/ss3grid.qmd
+          - tools-pkgs/ss3diags.qmd
+          - tools-pkgs/JABBA.qmd
+          - tools-pkgs/agepro.qmd
+          - tools-pkgs/stepwiseLH.qmd
+          - tools-pkgs/ss3grid.qmd
       - section: "Surveys"
         href: fish-surveys/surveys.qmd
         contents:

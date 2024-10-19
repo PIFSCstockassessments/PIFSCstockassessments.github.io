@@ -3,7 +3,7 @@ title: ss3diags
 ---
 
 ::: {style="float: right; margin 5px"}
-![](../assets/img/tools-pkg/ss3diags-logo.png){fig-alt="ss3diags - Advanced diagnostics to evaluate a Stock Synthesis model"}
+![](../assets/img/tools-pkgs/ss3diags-logo.png){fig-alt="ss3diags - Advanced diagnostics to evaluate a Stock Synthesis model"}
 :::
 
 ss3diags is an R package with advanced diagnostics to evaluate a Stock Synthesis model. Diagnostics include residual analyses, hindcasting and cross-validation techniques, and retrospective analyses
