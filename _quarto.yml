@@ -3,11 +3,6 @@ project:
 
 website:
   title: "PIFSC Stock Assessments"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
   sidebar:
     style: "floating"
     contents:
@@ -33,6 +28,7 @@ website:
           - tools-pkg/JABBA.qmd
           - tools-pkg/agepro.qmd
           - tools-pkg/stepwiseLH.qmd
+          - tools-pkg/ss3grid.qmd
 
 format:
   html:
