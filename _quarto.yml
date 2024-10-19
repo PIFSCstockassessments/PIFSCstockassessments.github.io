@@ -21,10 +21,6 @@ website:
           - assessments/swordfish.qmd
           - assessments/uku-snapper.qmd
           - assessments/us-jurisdictional-bottomfish.qmd
-      - section: "Surveys"
-        href: fish-surveys/surveys.qmd
-        contents:
-        - fish-surveys/mhi-mrip.qmd
       - section: "Tools & Packages"
         href: tools-pkg/tools-packages.qmd
         contents:
@@ -33,6 +29,12 @@ website:
           - tools-pkg/agepro.qmd
           - tools-pkg/stepwiseLH.qmd
           - tools-pkg/ss3grid.qmd
+      - section: "Surveys"
+        href: fish-surveys/surveys.qmd
+        contents:
+          - fish-surveys/mhi-mrip.qmd
+          - fish-surveys/mhi-bottomfish.qmd
+
 
 format:
   html:
