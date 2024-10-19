@@ -8,6 +8,8 @@ website:
     contents:
       - text: "Index"
         href: index.qmd
+      - text: "About Us"
+        href: about.qmd
       - section: "Stock Recruitment"
         href: assessments.qmd
         contents:
