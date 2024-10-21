@@ -16,4 +16,4 @@ The R package ss3diags enables users to apply advanced diagnostics to evaluate a
 
 # Reference
 
-[Carvalho, F., Winker, H., Courtney, D., Kapur, M., Kell, L., Cardinale, M., Schirripag, M., Kitakado, T., Yemane, D., Piner, K.R., Maunder, M.N., Taylor, I., Wetzel, C.R., Doering, K., Johnsonm, K.F., Methot, R.D. 2021. A cookbook for using model diagnostics in integrated stock assessments. Fisheries Research. 240, 1-18. https://doi.org/10.1016/j.fishres.2021.105959.](https://doi.org/10.1016/j.fishres.2021.105959)
+-   Carvalho, F., Winker, H., Courtney, D., Kapur, M., Kell, L., Cardinale, M., Schirripag, M., Kitakado, T., Yemane, D., Piner, K.R., Maunder, M.N., Taylor, I., Wetzel, C.R., Doering, K., Johnsonm, K.F., Methot, R.D. 2021. A cookbook for using model diagnostics in integrated stock assessments. Fisheries Research. 240, 1-18. <https://doi.org/10.1016/j.fishres.2021.105959>
