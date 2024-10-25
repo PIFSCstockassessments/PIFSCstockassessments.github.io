@@ -1,0 +1,296 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "The Stock Assessment Program is a part of Pacific Islands Fisheries Science Center’s (PIFSC) Fisheries Research and Monitoring Division (FRMD).\nThe Stock Assessment Program conducts research on population biology, stock assessment, and population modeling. The Program integrates biological, ecological, and oceanographic data to advance stock assessments and to inform conservation and resource management at both the species and ecosystem levels.\nThe Stock Assessment Program also provides statistical expertise to the NOAA Fisheries Pacific Islands Regional Office (PIRO) longline fishery observer program and uses data collected by the observers to estimate the magnitude of incidental takes of sea turtles, seabirds, and marine mammals, and the bycatch of non-marketed fish species (mostly sharks) in the Hawaii longline fishery.\nThe stock assessments, along with bycatch estimates, are provided to support informed decisions by PIRO, the Western Pacific Regional Fishery Management Council (WPFMC), and international organizations such as the Western and Central Pacific Fisheries Commission (WCPFC), the International Scientific Committee for Tuna and Tuna-like Species in the North Pacific Ocean (ISC), and the Inter-American Tropical Tuna Commission (IATTC).\n\nDisclaimer\nThe United States Department of Commerce (DOC) GitHub project code is provided on an ‘as is’ basis and the user assumes responsibility for its use. DOC has relinquished control of the information and no longer has responsibility to protect the integrity, confidentiality, or availability of the information.\nAny claims against the Department of Commerce stemming from the use of its GitHub project will be governed by all applicable Federal law.\nAny reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce.\nThe Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government. About this site"
+  },
+  {
+    "objectID": "assessments/blue-marlin.html",
+    "href": "assessments/blue-marlin.html",
+    "title": "Blue marlin",
+    "section": "",
+    "text": "Pacific blue marlin (Makaira nigricans) are found in tropical and subtropical waters of the Pacific Ocean and assessed as a single stock within the Pacific Ocean. Blue marlin are predominantly caught by Japanese, Korean, and Taiwanese high seas longline fisheries. In the 1950s and 1960s, bycatch of blue marlin in Japanese longline fisheries represented the largest portion of blue marlin take. In more recent years, Japanese efforts have decreased while efforts by Taiwanese and other Indo-Pacific countries (Korea, China, Indonesia, and French Polynesia) have increased.\nBecause of the species’ wide range and long-distance migrations, the stock is assessed by the International Scientific Committee for Tuna and Tuna-like Species in the North Pacific (ISC) Billfish Working Group (BILLWG), which is a collaborative effort between multinational and multi-regional fisheries management organizations that conducts assessments and provides scientific advice for swordfish and marlin species.\nThe most recent benchmark assessment was developed in 2021. The 2021 assessment consisted of two age-, length-, and sex-structured Stock Synthesis models that incorporated sex-specific growth and natural mortality rates to account for sexual dimorphism of adults, each using a different growth curve for Pacific blue marlin.\nAfter extensive model exploration, neither growth curve could be excluded due to model diagnostics, model fit, nor biological plausibility. Therefore, the best fit model using each growth curve was averaged to produce stock status and conservation information.\nThe assessment models included time-series data from 1971 to 2019 catch, relative abundance, and length and weight composition from multiple fisheries), and biological information."
+  },
+  {
+    "objectID": "assessments/blue-marlin.html#publications",
+    "href": "assessments/blue-marlin.html#publications",
+    "title": "Blue marlin",
+    "section": "Publications",
+    "text": "Publications\n\nISC BILLWG 2021 Assessment Report (PDF)"
+  },
+  {
+    "objectID": "assessments/blue-shark.html",
+    "href": "assessments/blue-shark.html",
+    "title": "Blue Shark",
+    "section": "",
+    "text": "Blue shark (Prionace glauca) are widely distributed throughout temperate and tropical surface waters of the Pacific Ocean. They are classified as highly migratory species (HMS) and divided into two stocks in the Pacific, North and South. Historically, blue sharks were caught as bycatch in fisheries targeting other species, primarily high seas tuna and swordfish fisheries.\nThe North Pacific blue shark stock is assessed by the International Scientific Committee for Tuna and Tuna-like Species (ISC) Shark Working Group (SHARKWG) which was created by the ISC in 2011. The SHARKWG is a collaborative effort between scientists from ISC Member nations and observers to regularly evaluate the status of pelagic sharks that interact with international tuna and billfish fisheries in the North Pacific Ocean and provide scientific advice for conservation efforts.\nStock status and conservation information is based on the most current assessment (e.g., 2022) unless specified otherwise. Descriptions of previous stock assessments are included for historical perspective."
+  },
+  {
+    "objectID": "assessments/blue-shark.html#publications",
+    "href": "assessments/blue-shark.html#publications",
+    "title": "Blue Shark",
+    "section": "Publications",
+    "text": "Publications\n\nISC SHARKWG 2017 Assessment Report (PDF)\nISC SHARKWG 2022 Assessment Report (PDF)"
+  },
+  {
+    "objectID": "assessments/kona-crab.html",
+    "href": "assessments/kona-crab.html",
+    "title": "Kona Crab",
+    "section": "",
+    "text": "Kona crab (Ranina ranina, also known as “spanner crabs”) are found throughout the tropical and subtropical Indo-Pacific region including around the Main Hawaiian Islands in waters of 2-200 m depth. Although now it is a small commercial fishery, Kona crabs have been fished in Hawai’i since the beginning of the 20th century and are caught using baited hoop nets deployed over sandy substrates. Currently, the Hawaiian fishery is strictly regulated by the state, and only male harvest is allowed.\nThe most recent assessment was conducted in 2019. The 2019 Kona crab assessment used a Bayesian surplus production model that fit annual biomass estimates to nominal catch-per-unit-effort (CPUE) data and commercial catch data from fishing years 1958-2016. This assessment was the first application of the open-source modeling software, Just Another Bayesian Biomass Assessment (JABBA) on a US domestic species.\n\nKapur, Maia; Fitchett, M. D; Yau, Annie; Carvalho, Felipe. 2019. 2018 Benchmark Stock Assessment of Main Hawaiian Islands Kona Crab"
+  },
+  {
+    "objectID": "assessments/mako-shark.html",
+    "href": "assessments/mako-shark.html",
+    "title": "Mako Shark",
+    "section": "",
+    "text": "Shortfin mako sharks (Isurus oxyrinchus) are found throughout the pelagic, tropical to temperate, North Pacific Ocean and based on genetic and tagging evidence, it is assumed to be a single stock across the North Pacific Ocean.\nShortfin mako sharks are a highly migratory species and one of the focal species of the International Scientific Committee for Tuna and Tuna-like Species (ISC) Shark Working Group (SHARKWG). The North Pacific stock is assessed by the SHARKWG which is a collaborative effort between scientists from ISC Member nations and observers to regularly evaluate the status of pelagic sharks that interact with international tuna and billfish fisheries in the North Pacific Ocean and provide scientific advice for conservation efforts.\nThe first full stock assessment of shortfin mako shark in the North Pacific Ocean was conducted in 2018. Prior to this assessment, an index-based approach was used to evaluate the status of the stock. Significant improvements to fishery and biological data availability allowed for the development of a length-based, age-structured assessment model in Stock Synthesis in 2018. That model incorporated time-series data of catch, catch-per-unit-effort, and sex-specific length-composition for fishing years 1975 to 2016."
+  },
+  {
+    "objectID": "assessments/mako-shark.html#publications",
+    "href": "assessments/mako-shark.html#publications",
+    "title": "Mako Shark",
+    "section": "Publications",
+    "text": "Publications\n\nISC SHARKWG 2018 Assessment Report (PDF)"
+  },
+  {
+    "objectID": "assessments/mhi-deep7-bottomfish.html",
+    "href": "assessments/mhi-deep7-bottomfish.html",
+    "title": "Main Hawaiian Islands Deep 7 Bottomfish",
+    "section": "",
+    "text": "The Hawaiian “Deep 7” bottomfish complex is comprised of six snapper and one grouper species: opakapaka (pink snapper), onaga (longtail snapper), ehu (squirrelfish snapper), kalekale (Von Siebold’s snapper), gindai (Brigham’s snapper), lehi (silverjaw snapper), and hapu’upu’u (Hawaiian grouper). These seven species are found around the Main Hawaiian Islands (MHI) in waters of 100-400 m depth.\nThe Deep 7 species have historical cultural significance in Hawaiian tradition and today they comprise a significant part of the domestic commercial catch, with reported catches ranging from about 200,000 lbs to 300,000 lbs per year. Although the efficiency of the modern fishery has likely improved through time, the current Hawaii bottomfish fishery still uses traditional deep handline capture methods for commercial and recreational harvest. The stock is jointly managed by the from the State of Hawaii Division of Aquatic Resources (DAR) and NOAA.\nThe latest benchmark assessment was developed in 2018 and updated in 2021. The 2018 benchmark assessment was the first instance of incorporating data from the annual Bottomfish Fishery-Independent Survey into the stock assessment model. The assessment used a Bayesian surplus production model that fit annual biomass estimates to bottomfish catch and effort data (CPUE) and commercial catch reports for fishing years 1949-2015 in addition to fishery-independent survey data for fishing year 2017. The 2021 assessment update used the same Bayesian surplus production model with three additional years of data for each data source."
+  },
+  {
+    "objectID": "assessments/mhi-deep7-bottomfish.html#section",
+    "href": "assessments/mhi-deep7-bottomfish.html#section",
+    "title": "Main Hawaiian Islands Deep 7 Bottomfish",
+    "section": "2018",
+    "text": "2018\n\nLangseth B, Syslo J, Yau A, Kapur M, Brodziak J. 2018. Stock Assessment for the Main Hawaiian Islands Deep 7 Bottomfish Complex in 2018, with Catch Projections Through 2022"
+  },
+  {
+    "objectID": "assessments/mhi-deep7-bottomfish.html#section-1",
+    "href": "assessments/mhi-deep7-bottomfish.html#section-1",
+    "title": "Main Hawaiian Islands Deep 7 Bottomfish",
+    "section": "2021",
+    "text": "2021\n\nSyslo J, Brodziak J, Carvalho F. 2021. Stock Assessment Update for the Main Hawaiian Islands Deep 7 Bottomfish Complex in 2021, with Catch Projections Through 2025."
+  },
+  {
+    "objectID": "assessments/reeffish.html",
+    "href": "assessments/reeffish.html",
+    "title": "Reef Fish",
+    "section": "",
+    "text": "The coral reef fish assessments are centered on the hundreds of targeted species that inhabit the nearshore environment around the Pacific Islands. The high species diversity, the mixture of commercial and recreational fishing effort, and the spatially diffused nature of these fisheries result in a comparatively data-poor situation for these stocks.\nDue to the lack of available fishery-dependent and fishery-independent data, previous management regulations set by the Western Pacific Regional Fishery Management Council (WPRFMC) were based on empirical methods. However, since the early 2000s, fishery-independent survey efforts and life-history research by the Pacific Islands Fisheries Science Center (PIFSC) improved data availability which allowed statistical assessment models to be applied in order to better understand the status of reef fish stocks in the region."
+  },
+  {
+    "objectID": "assessments/reeffish.html#hawaii",
+    "href": "assessments/reeffish.html#hawaii",
+    "title": "Reef Fish",
+    "section": "2017 Hawaii",
+    "text": "2017 Hawaii\nThe coral reef fishery around the main Hawaiian islands is predominantly near-shore recreational and subsistence fishing, with a small commercial fishing sector. The most common fishing gear types include spears, hook-and-line, traps, and small gill and cast nets. The primary families caught include jacks and snappers, as well as some surgeonfish, goatfish, soldierfish, and parrotfish.\nIn 2016, a stock assessment for the 27 most commonly exploited reef-associated fishes surrounding the main Hawaiian Islands was conducted. The assessment used a novel approach for data-poor stocks to estimate life history parameters for 11 of the 27 species and a simple age-based assessment model. Fishery-independent size composition and diver survey abundance data, along with fishery-dependent catch data were incorporated into the model. The input data were available from 2003 to 2016.\n\nNadon, Marc O. 2017. Stock assessment of the coral reef fishes of Hawaii, 2016"
+  },
+  {
+    "objectID": "assessments/reeffish.html#guam",
+    "href": "assessments/reeffish.html#guam",
+    "title": "Reef Fish",
+    "section": "2019 Guam",
+    "text": "2019 Guam\nThe coral reef fishery around Guam is a mix of commercial and noncommercial fishing and it plays a key role in their culture and society. The dominant fishing gears are boat-based trolling and shore-based hook and line and the primary families caught include surgeonfishes, rabbitfishes, goatfishes, parrotfishes, snappers, and groupers.\nThe most recent stock assessment for the Guam reef fish stock was conducted in 2019 and included 12 of the most commonly exploited reef fish stocks of Guam. Fishery-independent size composition and relative abundance data from diver surveys data from 2014 to 2017, along with fishery-dependent data from biosampling and creel surveys for 2013 to 2016, and life-history data were incorporated into the length-based model.\n\nNadon, Marc O. 2019. Stock Assessment of Guam Coral Reef Fish, 2019"
+  },
+  {
+    "objectID": "assessments/striped-marlin.html",
+    "href": "assessments/striped-marlin.html",
+    "title": "Striped Marlin",
+    "section": "",
+    "text": "Striped marlin (Kajikia audax) are found throughout the tropical and subtropical regions of the Pacific and Indian Oceans. In the north Pacific region, the Western and Central North Pacific stock is bounded by the equator and the Western and Central Pacific Fisheries Commission (WCPFC) management boundary at 150ºW.\nStriped marlin are predominately taken as incidental bycatch from fisheries in Japan, the USA, China, Taiwan, Korea, and other WCPFC countries. Catch of striped marlin were highest in the 1970s to the 1990s and were mostly by driftnet, but since the 1990s, they have been primarily caught by longlines and overall catches have decreased.\nBecause striped marlin are highly migratory species and cross international boundaries, their populations are assessed on an international scale. The stock is assessed by the International Scientific Committee for Tuna and Tuna-like Species in the North Pacific (ISC) Billfish Working Group (BILLWG), which is a collaborative effort between multinational and multi-regional fisheries management organizations that conducts assessments and provides scientific advice for swordfish and marlin species.\nThe most recent stock assessment of WCNPO striped marlin was conducted in 2023. The assessment model was an integrated, age-structured model in Stock Synthesis. The model included biological and fishery data (catch, catch-per-unit-effort, and length composition data from 1977 to 2020) collected from ISC and WCPFC countries. The assessment indicated that the stock was overfished and undergoing overfishing according to \\(\\small{ 20\\%\\ SSB_{F=0} }\\) based reference points where \\(\\small{ 20\\%\\  SSB_{F=0} }\\) is calculated by the average dynamic \\(\\small{B_0}\\) from the last twenty years, achieved by projecting the population forward to equilibrium with \\(\\small{F=0}\\) in each year."
+  },
+  {
+    "objectID": "assessments/striped-marlin.html#publications",
+    "href": "assessments/striped-marlin.html#publications",
+    "title": "Striped Marlin",
+    "section": "Publications",
+    "text": "Publications\n\nISC BILLWG 2023 Assessment Report (PDF)"
+  },
+  {
+    "objectID": "assessments/swordfish.html",
+    "href": "assessments/swordfish.html",
+    "title": "Swordfish",
+    "section": "",
+    "text": "The North Pacific swordfish (Xiphias gladius) stock is divided into two sub-stocks, the Western and Central North Pacific Ocean sub-stock and the North Eastern Pacific Ocean sub-stock, by a diagonal boundary line from Baja, California to the equator, but are assessed as a single stock with the spatial component modeled implicitly using fleets-as-areas. Swordfish have high economic value in both commercial and recreational fisheries and are primarily caught with longline fishing gear. Catch was historically greater in the WCNPO than the NEPO, since 2011, annual catches are approximately 10,000 mt for both areas.\nSwordfish are highly migratory species and cross international boundaries, which necessitates the need to assess their populations on an international scale. The North Pacific swordfish stocks are assessed by the International Scientific Committee for Tuna and Tuna-like Species in the North Pacific (ISC) Billfish working group (BILLWG), which is a collaborative effort between multinational and multi-regional fisheries management organizations that conducts assessments and provides scientific advice for swordfish and marlin species.\nThe most recent benchmark stock assessment for the WCNPO swordfish stock was conducted in 2023. The assessment model was an integrated, age- and sex-structured model in Stock Synthesis. It included best-available catch, catch-per-unit-effort (CPUE), and length composition data from 1975 to 2021. This assessment indicated that the stock was not overfished and that overfishing was not occuring according to MSY-based reference points."
+  },
+  {
+    "objectID": "assessments/swordfish.html#publications",
+    "href": "assessments/swordfish.html#publications",
+    "title": "Swordfish",
+    "section": "Publications",
+    "text": "Publications\n\nISC BILLWG 2023 Assessment Report (PDF)"
+  },
+  {
+    "objectID": "assessments/uku-snapper.html",
+    "href": "assessments/uku-snapper.html",
+    "title": "Uku Snapper",
+    "section": "",
+    "text": "The ukupalu snapper, more commonly known as uku, is found throughout the Hawaiian Archipelago (the northwestern and main Hawaiian Islands) at depths of 60 to 650 feet. Uku have been fished for hundreds of years in the Hawaiian Archipelago region. It is a particularly important resource for recreational and subsistence fishers; these fisheries accounting for over half of the total annual uku catches, at approximately 55 mt per year.\nThe commercial fishery has experienced increases and declines in catches since the 1950s but since the 1990s have been steadily increasing to approximately 50 mt per year. The most common fishing method is deep-sea handline with baited hooks. Currently, the MHI stock is jointly managed by the State of Hawaii Department of Land and Natural Resources and NOAA.\nPrior to 2017, the MHI uku stock was assessed as a part of a snapper complex. The most recent assessment in 2020 was a single-species assessment that used the statistical catch-at-age model Stock Synthesis (version 3.30). The model incorporated both fishery-dependent and fishery-independent data.\nFishery-dependent data included individual weights, catch, and catch-per-unit-effort data from the commercial fishery for the years 1948 to 2018 and recreational catch data from the Hawai’i Marine Recreational Fishing Survey for the years 2003 to 2018.\nThe fishery-independent index of relative abundance data was from the Pacific Reef Assessment and Monitoring Program for the years 2005 to 2016.\nThe assessment was the first successful implementation of an integrated Stock Synthesis model in Hawai’i and marks a milestone for the stock assessment program and the future of conservation of marine resources in Hawai’i.\n\nNadon, Marc O.; Sculley, Michelle; Carvalho, Felipe. 2020. Stock assessment of uku (Aprion virescens) in Hawaii, 2020"
+  },
+  {
+    "objectID": "assessments/us-jurisdictional-bottomfish.html",
+    "href": "assessments/us-jurisdictional-bottomfish.html",
+    "title": "United States Jurisdictional Bottomfishes",
+    "section": "",
+    "text": "The U.S. Jurisdictional bottomfishes are 14 coastal species primarily found in deep-slope habitat around American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands (CNMI). Eleven of these species occur around American Samoa and 13 occur in the Mariana Archipelago. These species are mainly deep snappers from the Etelis and Pristipomoides genre, in addition to a few emperor, grouper, and jack species. Fishing is an integral part of the heritage, tradition, and culture of the local communities in these Pacific Islands.\nMost bottomfishing has traditionally been done with hook-and-lines from small boats with outboard engines, primarily for subsistence or local sale. In recent decades, technology and the increased presence of larger vessels have allowed the fisheries to expand offshore into deeper waters around the islands. These species were previously managed as a multi-species complex by the Western Pacific Regional Fishery Management Council, but recent analyses have been conducted at the species level in certain jurisdiction (American Samoa)."
+  },
+  {
+    "objectID": "assessments/us-jurisdictional-bottomfish.html#american-samoa",
+    "href": "assessments/us-jurisdictional-bottomfish.html#american-samoa",
+    "title": "United States Jurisdictional Bottomfishes",
+    "section": "American Samoa",
+    "text": "American Samoa\nThe 11 federally managed bottomfish species in American Samoa are Aphareus rutilans, Aprion virescens, Caranx lugubris, Etelis carbunculus, Etelis coruscans, Lethrinus rubrioperculatus, Lutjanus kasmira, Pristipomoides filamentosus, Pristipomoides flavipinnis, Pristipomoides zonatus, and Variola louti. These species are targeted by a small yet valuable boat-based fishery in depths ranging around 100 m to 400 m.\nThe current benchmark assessment for the American Samoa BMUS developed in 2023 differs significantly from all previous efforts. A major improvement for the 2023 benchmark was to move to single-species, age-structured models. The 2023 assessments integrated catch, an abundance index, and length data from four data sources: historical catches (pre-1986) from older reports; recent catches (post-1985) from boat- and shore-based creel surveys; length compositions from boat-based creel surveys and the biosampling program; and an abundance index from boat-based creel survey interviews.\nOf note, two of the eleven bottomfish species could not be assessed due to either the presence of a confounded species in the data (E.carbunculus) or insufficient data (P. filamentosus). For these two species, we used indicator species from the 9 assessed bottomfishes. The species used as indicators were E. coruscans and P. flavipinnis.\nThe stock status in the terminal year (2021) for all nine bottomfish species was not overfished and that overfishing was not occurring (see figure below). Overfishing is defined by fishing mortality (F) in 2021 being higher than FMSY and overfished status is defined by spawning stock biomass (SSB) in 2021 being lower than SSB at the Minimum Stock Size Threshold.\n Stock status in 2021 of the nine BMUS species with single-species assessment models in the terminal year of the model."
+  },
+  {
+    "objectID": "assessments/us-jurisdictional-bottomfish.html#guam-and-cnmi",
+    "href": "assessments/us-jurisdictional-bottomfish.html#guam-and-cnmi",
+    "title": "United States Jurisdictional Bottomfishes",
+    "section": "Guam and CNMI",
+    "text": "Guam and CNMI\nFor the Guam and CNMI bottomfishes, the most recent benchmark assessment was developed in 2019 using a Bayesian surplus-production model (JABBA). These assessments were done at the complex level in each jurisdiction, fitting annual biomass estimates to total catch and catch-per-unit-effort (CPUE) data. Commercial fishing sales receipts and fishery-dependent survey data were used to inform catch estimates and abundance trends.\nFor the CNMI, the stock was healthy (not overfished and not experiencing overfishing). For Guam, the stocks were less healthy, overfished but not experiencing overfishing."
+  },
+  {
+    "objectID": "assessments/us-jurisdictional-bottomfish.html#publications",
+    "href": "assessments/us-jurisdictional-bottomfish.html#publications",
+    "title": "United States Jurisdictional Bottomfishes",
+    "section": "Publications",
+    "text": "Publications\n\nNadon, Marc O. et al. (2023). Stock Assessment of American Samoa Bottomfishes, 2023. https://doi.org/10.25923/0sd4-9a69\nLangseth, Brian J. et al. (2019). Stock assessments of the bottomfish management unit species of Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa, 2019. https://doi.org/10.25923/bz8b-ng72"
+  },
+  {
+    "objectID": "assessments.html",
+    "href": "assessments.html",
+    "title": "Assessments",
+    "section": "",
+    "text": "Stock assessment is at the core of NOAA’s science-based management objectives and is the primary function of the PIFSC Stock Assessment Program (SAP).\nThe Assessment Program (SAP) at the NOAA Pacific Islands Fisheries Science center conducts evaluations of the current and historical population status of bottomfish species and crustaceans in support of the Western Pacific Regional Fishery Management Council (WPRFMC) management plans for the nation’s fisheries based in the Western Pacific Region. The WPRFMC and NOAA Fisheries use these evaluations to set Annual Catch Limits (ACLs).\nThe SAP also performs analyses in support of U.S. participation in international Regional Fishery Management Organizations (RFMOs).\nFor example, the SAP works with scientists from other nations within the International Scientific Committee on Tuna and Tuna-like Species in the North Pacific Ocean (ISC) to conduct collaborative stock assessments on tuna, billfish and shark stocks spanning the Pacific, supporting fisheries worth many billions of dollars and making critical contribution to the Pacific Islands regional economy.\nSAP scientists play an essential role in these international stock assessments, including serving as lead analysts and chairing working groups.\nIn addition to conducting stock assessments, other crucial activities developed by the SAP include:\n\nHelping the design and implementation of the annual Bottomfish Fishery-Independent Survey in Hawaii (BFISH). The BFISH assesses the number and size of bottomfish around all eight of the Main Hawaiian Islands by collecting data at various scientifically-selected sites.\nApply advanced statistical methods to analyze catch and effort data from the recreational and subsistence fishing conducted in Hawaii and the U.S. territories of Western Pacific Region, which includes American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.\nHost the NMFS Cooperative Research Program. Cooperative research provides a means for commercial and recreational fishermen to become involved in the collection of important fisheries information to support the development and evaluation of fishery management options."
+  },
+  {
+    "objectID": "fish-surveys/mhi-bottomfish.html",
+    "href": "fish-surveys/mhi-bottomfish.html",
+    "title": "Hawaii Bottomfish Surveys",
+    "section": "",
+    "text": "The Bottomfish Fishery-Independent Survey in Hawai‘i (BFISH) is a collaborative survey conducted annually since 2016, by researchers at the Pacific Islands Fisheries Science Center and local cooperative research fishers.\nThe goal of the survey is to provide fishery-independent estimates of bottomfish abundance for use in the Deep 7 bottomfish stock assessment."
+  },
+  {
+    "objectID": "fish-surveys/mhi-bottomfish.html#survey-details",
+    "href": "fish-surveys/mhi-bottomfish.html#survey-details",
+    "title": "Hawaii Bottomfish Surveys",
+    "section": "Survey Details",
+    "text": "Survey Details\nThis survey comprises two gear types:\n\nHook and line fishing conducted by cooperative research fishers.\nUnderwater stereo-cameras called MOUSS (Modular Optical Underwater Survey System).\n\nSampling locations are chosen at random each year based on habitat type. During the survey period, which typically runs from August through October, fishing for bottomfish occurs for 30 minutes at each location using two lines, each baited with four standard-size hooks. PIFSC researchers also deploy cameras from a NOAA research vessel. For both gear types, all fish caught or seen are recorded, counted, and measured.\nLearn more about the Hawaii Bottomfish Survey (NOAA Fisheries)"
+  },
+  {
+    "objectID": "fish-surveys/mhi-mrip.html",
+    "href": "fish-surveys/mhi-mrip.html",
+    "title": "Hawaii Marine Recreational Information Program (MRIP)",
+    "section": "",
+    "text": "Non-commercial fisheries in the Pacific Islands region are major economic contributors to coastal communities and have important social and cultural significance (https://www.fisheries.noaa.gov/feature-story/saltwater-recreational-fisheries-regional-snapshots).\nThe Marine Recreational Information Program (MRIP) has been actively involved with the Hawaii Marine Recreational Fishing Survey (HMRFS). A survey statistician from the Fisheries Research and Monitoring Division (FRMD) or Integrated Fisheries Management Plan (IFMP) assists in coordinating and monitoring the execution of the HMRFS http://doi.org/10.7289/V5/TM-PIFSC-55.\nMRIP has worked with other partners to carry out several MRIP projects, review HMRFS and test alternative survey methods. The major MRIP projects in Hawaii include:\n\nThe Hawaii For-Hire Pilot Study to Incorporate Validation Procedures in the Commercial Marine License Reporting Program documented the “for-hire” (charter boat) sector’s level of compliance with the Hawaii Division of Aquatic Resources (DAR) commercial fish catch reporting system : https://repository.library.noaa.gov/view/noaa/4605\n\nIdentified a series of recommended changes to improve the system: http://doi.org/10.7289/V5XG9P4S\n\nReview of the Current Sampling and Estimation Methods of the Hawaii Marine Recreational Fishing Survey (HMRFS), completed by a team of expert consultants, identifies opportunities and makes recommendations to improve the angler catch survey and the Coastal Household Telephone Survey in Hawaii (project report at http://doi.org/10.7289/V5/TM-PIFSC-55)\nDesign Effort Surveys for Shoreline Fishing in Hawaii Marine Recreational Fishing Survey (HMRFS) came up with alternative survey approaches for collecting shore-based fishing-effort information, following the recommendations from the 2012 Workshop (Report available at https://www.researchgate.net/publication/313821171).\nA MRIP workshop ws held in Honolulu on May 28-30, 2019, to review the pros and cons of the pilot surveys previously tested in Hawaii and develop certified surveys for the Hawaii Marine Recreational Fishing Survey (project report at https://doi.org/10.25923/2pta-zs36)"
+  },
+  {
+    "objectID": "fish-surveys/surveys.html",
+    "href": "fish-surveys/surveys.html",
+    "title": "Fishery Research Surveys",
+    "section": "",
+    "text": "For more information about the research surveys PIFSC does, please refer to the following link:\nResearch Surveys in the Pacific (NOAA Fisheries)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PIFSC Stock Assessments",
+    "section": "",
+    "text": "By developing and improving population models, analytical tools, and fisheries surveys to generate state-of-the-art scientific information on the status of coastal and pelagic stocks in the Pacific region."
+  },
+  {
+    "objectID": "tools-pkgs/agepro.html",
+    "href": "tools-pkgs/agepro.html",
+    "title": "AGEPRO",
+    "section": "",
+    "text": "The Age Structured Projection Model (AGEPRO) is a projection model for an age-structured fish stock harvested by one or more fleets."
+  },
+  {
+    "objectID": "tools-pkgs/agepro.html#agepro-gui-releases",
+    "href": "tools-pkgs/agepro.html#agepro-gui-releases",
+    "title": "AGEPRO",
+    "section": "AGEPRO GUI releases",
+    "text": "AGEPRO GUI releases\n\nAGEPRO GUI interface (Github)\nNOAA Fish and Fisheries Tools link (fish-tools)\n\nThe command line based AGEPRO “Calculation Engine” is included in the AGEPRO GUI installation."
+  },
+  {
+    "objectID": "tools-pkgs/agepro.html#agepro-calculation-engine-command-line-script-source-code",
+    "href": "tools-pkgs/agepro.html#agepro-calculation-engine-command-line-script-source-code",
+    "title": "AGEPRO",
+    "section": "AGEPRO “Calculation Engine” Command Line Script Source code",
+    "text": "AGEPRO “Calculation Engine” Command Line Script Source code\n\nAGEPRO “Calculation Engine” Source (GitHub)"
+  },
+  {
+    "objectID": "tools-pkgs/agepro.html#agepro-gui-source-code",
+    "href": "tools-pkgs/agepro.html#agepro-gui-source-code",
+    "title": "AGEPRO",
+    "section": "AGEPRO GUI Source Code",
+    "text": "AGEPRO GUI Source Code\n\nAGEPRO-GUI Source (GitHub)\nAGEPRO-CoreLib Source (GitHub)"
+  },
+  {
+    "objectID": "tools-pkgs/agepro.html#references",
+    "href": "tools-pkgs/agepro.html#references",
+    "title": "AGEPRO",
+    "section": "References",
+    "text": "References\n\nBrodziak, J., P. Rago, and R. Conser. 1998. A general approach for making short-term stochastic projections from an age-structured fisheries assessment model. In F. Funk, T. Quinn II, J. Heifetz, J. Ianelli, J. Powers, J. Schweigert, P. Sullivan, and C.-I. Zhang (Eds.), Proceedings of the International Symposium on Fishery Stock Assessment Models for the 21st Century. Alaska Sea Grant College Program, Univ. of Alaska, Fairbanks. https://doi.org/10.4027/fsam.1998.52"
+  },
+  {
+    "objectID": "tools-pkgs/JABBA.html",
+    "href": "tools-pkgs/JABBA.html",
+    "title": "JABBA",
+    "section": "",
+    "text": "The motivation for developing JABBA was to provide a user-friendly R to JAGS interface for fitting generalized Bayesian State-Space SPMs with the aim to generate reproducible stock status estimates and diagnostics.\nBuilding on recent advances in optimizing the fitting procedures through the development of Bayesian state-space modeling approaches, JABBA originates from a continuous development process of a Bayesian State-Space SPM tool that has been applied and tested in many assessments across oceans.\nJABBA was conceived in the Hawaiian Summer of 2015 as a collaboration between young researchers from South Africa and the Pacific Islands Fisheries Science Center (NOAA) in Honolulu, HI USA. JABBA runs quickly and by default generates many useful plots and diagnostic tools for stock assessments."
+  },
+  {
+    "objectID": "tools-pkgs/JABBA.html#reference",
+    "href": "tools-pkgs/JABBA.html#reference",
+    "title": "JABBA",
+    "section": "Reference",
+    "text": "Reference\n\nWinker, H., Carvalho, F., Kapur, M. (2018) JABBA: Just Another Bayesian Biomass Assessment. Fisheries Research 204: 275-288. https://doi.org/10.1016/j.fishres.2018.03.010\nWinker, H., Carvalho, F., Thorson, J.T., Kell, L.T., Parker, D., Kapur, M., Sharma, R., Booth, A.J., Kerwath, S.E., 2020. JABBA-Select: incorporating life history and fisheries’ selectivity into surplus production models. Fish. Es. 222, 105355. https://doi.org/10.1016/j.fishres.2019.105355"
+  },
+  {
+    "objectID": "tools-pkgs/ss3diags.html",
+    "href": "tools-pkgs/ss3diags.html",
+    "title": "ss3diags",
+    "section": "",
+    "text": "ss3diags is an R package with advanced diagnostics to evaluate a Stock Synthesis model. Diagnostics include residual analyses, hindcasting and cross-validation techniques, and retrospective analyses\nThe R package ss3diags enables users to apply advanced diagnostics to evaluate a Stock Synthesis model. Diagnostics include residual analyses, hindcasting and cross-validation techniques, and retrospective analyses. ss3diags also allow users to reproduce the key model diagnostics plots that presented in the paper A Cookbook for Using Model Diagnostics in Integrated Stock Assessments.\n\nss3diags R package\nss3diags github page (PIFSCstockassessments)\n\n\nReference\n\nCarvalho, F., Winker, H., Courtney, D., Kapur, M., Kell, L., Cardinale, M., Schirripag, M., Kitakado, T., Yemane, D., Piner, K.R., Maunder, M.N., Taylor, I., Wetzel, C.R., Doering, K., Johnsonm, K.F., Methot, R.D. 2021. A cookbook for using model diagnostics in integrated stock assessments. Fisheries Research. 240, 1-18. https://doi.org/10.1016/j.fishres.2021.105959"
+  },
+  {
+    "objectID": "tools-pkgs/ss3grid.html",
+    "href": "tools-pkgs/ss3grid.html",
+    "title": "ss3grid",
+    "section": "",
+    "text": "SSgrid is an developing R package that facilitates Stock Synthesis models on the Open Science Grid’s HTCondor network.\n\nSource\nss3grid source (github)"
+  },
+  {
+    "objectID": "tools-pkgs/stepwiseLH.html",
+    "href": "tools-pkgs/stepwiseLH.html",
+    "title": "StepwiseLH",
+    "section": "",
+    "text": "This R package allows fisheries scientists to generate probability distributions for missing life history parameters of sharks, groupers, and other taxa to assist data-limited stock assessments"
+  },
+  {
+    "objectID": "tools-pkgs/stepwiseLH.html#repository",
+    "href": "tools-pkgs/stepwiseLH.html#repository",
+    "title": "StepwiseLH",
+    "section": "Repository",
+    "text": "Repository\nhttps://github.com/PIFSCstockassessments/StepwiseLH"
+  },
+  {
+    "objectID": "tools-pkgs/stepwiseLH.html#references",
+    "href": "tools-pkgs/stepwiseLH.html#references",
+    "title": "StepwiseLH",
+    "section": "References",
+    "text": "References\n\nNadon, M. O., and J. S. Ault. 2016. A stepwise stochastic simulation approach to estimate life history parameters for data-poor fisheries. Can. J. Fish. Aquat. Sci. 73:1874–1884. https://doi.org/10.1139/cjfas-2015-0303\nErickson, A. K., and Nadon, O. M. 2021. An extension of the stepwise stochastic simulation approach for estimating distributions of missing life history parameter values for sharks, groupers, and other taxa. Fish. Bull. 119(1): 77-92. https://doi.org/10.7755/fb.119.1.9"
+  },
+  {
+    "objectID": "tools-pkgs/tools-packages.html",
+    "href": "tools-pkgs/tools-packages.html",
+    "title": "Tools & Packages",
+    "section": "",
+    "text": "Stock Assessment Software Tools contributed by the Pacific Island Fisheries Science Center and its partners."
+  }
+]
