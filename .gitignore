@@ -6,3 +6,5 @@
 /.quarto/
 /_site/
 *_cache/
+/docs/
+site_libs/
