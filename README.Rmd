@@ -1,0 +1,36 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# PIFSC Stock Assessments Quarto Website on Github Pages Prototype
+
+This is the source code repository for the PIFSC Stock Assessments Web Github Website prototype located at <https://pifscstockassessments.github.io/quarto-website-proto/>
+
+Current PIFSC Stock Assesments Github Website: <https://pifscstockassessments.github.io>
+
+<!-- Do not edit below. This adds the Disclaimer and NMFS footer. -->
+
+------------------------------------------------------------------------
+
+```{r add-disclaimer, echo=FALSE, results='asis'}
+url <- "https://raw.githubusercontent.com/nmfs-fish-tools/Resources/master/Disclaimer.md"
+childtext <- readLines(url)
+cat(childtext, sep="\n")
+```
+
+------------------------------------------------------------------------
+
+```{r footer, echo=FALSE, results='asis'}
+url <- "https://raw.githubusercontent.com/nmfs-fish-tools/Resources/master/footer.md" 
+childtext <- readLines(url)
+cat(childtext, sep="\n")
+```
