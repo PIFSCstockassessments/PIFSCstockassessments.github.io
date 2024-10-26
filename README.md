@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# PIFSC Stock Assessments Quarto Website on Github Pages Prototype
+# PIFSC Stock Assessments Quarto Github Pages Website Prototype
 
 This is the source code repository for the PIFSC Stock Assessments Web
 Github Website prototype located at
