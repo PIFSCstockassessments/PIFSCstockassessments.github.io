@@ -4,12 +4,21 @@ project:
 website:
   title: "PIFSC Stock Assessments"
   sidebar:
-    style: "floating"
+    style: "docked"
+    background: "light"
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://github.com/PIFSCstockassessments/quarto-website-proto
+          - text: Report a Bug
+            href: https://github.com/PIFSCstockassessments/quarto-website-proto/issues
     contents:
       - text: "Index"
         href: index.qmd
       - text: "About Us"
         href: about.qmd
+      - text: "---"
       - section: "Stock Recruitment"
         href: assessments.qmd
         contents:
@@ -23,6 +32,7 @@ website:
           - assessments/swordfish.qmd
           - assessments/uku-snapper.qmd
           - assessments/us-jurisdictional-bottomfish.qmd
+      - text: "---"
       - section: "Tools & Packages"
         href: tools-pkgs/tools-packages.qmd
         contents:
@@ -31,6 +41,7 @@ website:
           - tools-pkgs/agepro.qmd
           - tools-pkgs/stepwiseLH.qmd
           - tools-pkgs/ss3grid.qmd
+      - text: "---"
       - section: "Surveys"
         href: fish-surveys/surveys.qmd
         contents:
