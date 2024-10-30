@@ -8,15 +8,14 @@ website:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
+    title: "PIFSC Stock Assessments"
     style: "docked"
     background: "light"
+    align: left
     tools:
       - icon: github
-        menu:
-          - text: Source Code
-            href: https://github.com/PIFSCstockassessments/quarto-website-proto
-          - text: Report a Bug
-            href: https://github.com/PIFSCstockassessments/quarto-website-proto/issues
+        text: "Source Code"
+        href: https://github.com/PIFSCstockassessments/quarto-website-proto
     contents:
       - text: "Index"
         href: index.qmd
@@ -55,8 +54,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [flatly, theme.scss]
+      dark: [darkly, theme-dark.scss]
     toc: true
 
 editor:
