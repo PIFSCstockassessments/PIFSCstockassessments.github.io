@@ -1,9 +1,19 @@
 /*-- scss:defaults --*/
 
-@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+/* @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';*/
+@import "https://nmfs-ost.github.io/nmfspalette/extra.css";
 
-$font-family: "Atkinson Hyperlegible", sans-serif;
+/* $font-family: "Atkinson Hyperlegible", sans-serif;*/
 
 
 // Base document colors
 $link-color: #75AADB;
+
+
+.sidebar-item-text {
+  font-family: "Open Sans", Sans-Serif;
+}
+
+.ol, ul, dl {
+  font-family: "Open Sans", Sans-Serif;
+}
