@@ -4,9 +4,6 @@ project:
 website:
   title: "PIFSC Stock Assessments"
 
-  page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-
   sidebar:
     title: "PIFSC Stock Assessments"
     style: "docked"
