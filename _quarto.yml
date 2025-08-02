@@ -19,7 +19,7 @@ website:
       - text: "About Us"
         href: about.qmd
       - text: "---"
-      - section: "Stock Recruitment"
+      - section: "Stock Assessments"
         href: assessments.qmd
         contents:
           - assessments/blue-marlin.qmd
