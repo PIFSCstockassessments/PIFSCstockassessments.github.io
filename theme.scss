@@ -25,6 +25,25 @@ https://github.com/quarto-dev/quarto-cli/discussions/3300#discussioncomment-1347
 
 /* END Dark Theme Toggle*/
 
+/*Search Item*/
+//Highligted Selected (Hover) Item
+.aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item.search-result-more, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-section, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-text, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-title-container, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-text-container, #quarto-search-results li.aa-Item[aria-selected=true] .search-item.search-result-more, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-section, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-text, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-title-container, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-text-container {
+  background-color: #C6E6F0 !important;
+  color: #222 !important;
+}
+.aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item, #quarto-search-results li.aa-Item[aria-selected=true] .search-item {
+  background-color: #C6E6F0 !important;
+}
+//Search Match text: When object is highligted/hover-on is TRUE
+.aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item mark.search-match, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-match.mark, #quarto-search-results li.aa-Item[aria-selected=true] .search-item mark.search-match, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-match.mark {
+  background-color: #0078C0 !important;
+}
+//Search Match text: When object is highligted/hover-on is FALSE
+.aa-DetachedOverlay li.aa-Item[aria-selected=false] .search-item mark.search-match, .aa-DetachedOverlay li.aa-Item[aria-selected=false] .search-item .search-match.mark, #quarto-search-results li.aa-Item[aria-selected=false] .search-item mark.search-match, #quarto-search-results li.aa-Item[aria-selected=false] .search-item .search-match.mark {
+  background-color: #CBCFD1 !important;
+}
+
+
 // Base document colors
 $link-color: #75AADB;
 
@@ -32,6 +51,7 @@ $link-color: #75AADB;
 $footer-bg: #005AA8;  // #181818;
 $navbar-bg: #46A9D5; //#303030;
 $sidebar-bg: #054698; // #303030;
+
 
 .sidebar-title {
   color: #fff;
