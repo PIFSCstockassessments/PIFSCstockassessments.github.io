@@ -3,4 +3,9 @@ title: "PIFSC Stock Assessments"
 subtitle: "Advancing stock assessment science in the Western Pacific Islands"
 ---
 
+<!-- To compile Quarto Website knit index.qmd or _quarto.yml -->
+
 By developing and improving population models, analytical tools, and fisheries surveys to generate state-of-the-art scientific information on the status of coastal and pelagic stocks in the Pacific region.
+
+```{r child="Disclaimer.Rmd"}
+```
