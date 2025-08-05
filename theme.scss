@@ -6,9 +6,36 @@
 /* $font-family: "Atkinson Hyperlegible", sans-serif;*/
 
 
+/***
+Customizing the Dark theme toggle color.
+
+Dark Theme Toggle Theming. Original Post:
+https://github.com/quarto-dev/quarto-cli/discussions/3300#discussioncomment-13472478
+***/
+
+.quarto-color-scheme-toggle {
+  margin-right: 8px !important; /* add extra space to the right of the icon */
+  margin-top: 2px !important; /*Use margin to align symbol to vertical center*/
+}
+
+//Main (Light): rgba(198, 230, 240, 1) <- hex #C6E6F0
+.sidebar-navigation .quarto-color-scheme-toggle:not(.alternate) .bi::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(198, 230, 240, 1)" class="bi bi-toggle-off" viewBox="0 0 16 16"><path d="M11 4a4 4 0 0 1 0 8H8a4.992 4.992 0 0 0 2-4 4.992 4.992 0 0 0-2-4h3zm-6 8a4 4 0 1 1 0-8 4 4 0 0 1 0 8zM0 8a5 5 0 0 0 5 5h6a5 5 0 0 0 0-10H5a5 5 0 0 0-5 5z"/></svg>') !important;
+}
+
+/* END Dark Theme Toggle*/
+
 // Base document colors
 $link-color: #75AADB;
 
+// Navigation element colors
+$footer-bg: #005AA8;  // #181818;
+$navbar-bg: #46A9D5; //#303030;
+$sidebar-bg: #054698; // #303030;
+
+.sidebar-title {
+  color: #fff;
+}
 
 .sidebar-item-text {
   font-family: "Open Sans", Sans-Serif;
