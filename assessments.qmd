@@ -1,21 +1,11 @@
 ---
-title: Assessments 
+title: "Stock Assessment at the Pacific Islands Fisheries Science Center"
 ---
 
-[Stock assessment](https://www.fisheries.noaa.gov/topic/population-assessments#fish-stocks) is at the core of NOAA's science-based management objectives and is the primary function of the PIFSC Stock Assessment Program (SAP).
+[**Stock assessment**](https://www.fisheries.noaa.gov/topic/population-assessments#fish-stocks) is at the core of NOAA’s science‑based fisheries management, and it is the primary mission of the Stock Assessment Program (SAP) at the Pacific Islands Fisheries Science Center (PIFSC).
 
-The Assessment Program (SAP) at the NOAA Pacific Islands Fisheries Science center conducts evaluations of the current and historical population status of bottomfish species and crustaceans in support of the Western Pacific Regional Fishery Management Council (WPRFMC) management plans for the nation’s fisheries based in the Western Pacific Region. The WPRFMC and NOAA Fisheries use these evaluations to set Annual Catch Limits (ACLs).
+SAP evaluates the current and historical status of fish and invertebrate populations in the Western Pacific, providing the scientific foundation for sustainable fisheries management.
 
-The SAP also performs analyses in support of U.S. participation in international Regional Fishery Management Organizations (RFMOs).
+Domestically, SAP conducts stock assessments for bottomfish and crustaceans in support of the Western Pacific Regional Fishery Management Council (WPRFMC). These assessments inform Annual Catch Limits (ACLs) for U.S. fisheries in the region.
 
-For example, the SAP works with scientists from other nations within the International Scientific Committee on Tuna and Tuna-like Species in the North Pacific Ocean (ISC) to conduct collaborative stock assessments on tuna, billfish and shark stocks spanning the Pacific, supporting fisheries worth many billions of dollars and making critical contribution to the Pacific Islands regional economy.
-
-SAP scientists play an essential role in these international stock assessments, including serving as lead analysts and chairing working groups.
-
-In addition to conducting stock assessments, other crucial activities developed by the SAP include:
-
--   Helping the design and implementation of the annual Bottomfish Fishery-Independent Survey in Hawaii (BFISH). The BFISH assesses the number and size of bottomfish around all eight of the Main Hawaiian Islands by collecting data at various scientifically-selected sites.
-
--   Apply advanced statistical methods to analyze catch and effort data from the recreational and subsistence fishing conducted in Hawaii and the U.S. territories of Western Pacific Region, which includes American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
-
--   Host the NMFS Cooperative Research Program. Cooperative research provides a means for commercial and recreational fishermen to become involved in the collection of important fisheries information to support the development and evaluation of fishery management options.
+Internationally, SAP plays a leading role in U.S. participation in Regional Fishery Management Organizations (RFMOs). Our primary focus is on the Western and Central Pacific Fisheries Commission (WCPFC) and the International Scientific Committee for Tuna and Tuna‑like Species in the North Pacific Ocean (ISC), where our scientists conduct collaborative stock assessments for tuna, billfish, and shark stocks - fisheries worth billions of dollars and vital to the Pacific Islands' economy. SAP scientists frequently serve as lead analysts and working group chairs in these efforts. We also contribute to the science that underpins the South Pacific Regional Fisheries Management Organization (SPRFMO) and the North Pacific Fisheries Commission (NPFC).
