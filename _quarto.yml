@@ -20,7 +20,7 @@ website:
         href: about.qmd
       - text: "---"
       - section: "Stock Assessments"
-        href: assessments.qmd
+        href: assessments/section-assessments.qmd
         contents:
           - assessments/blue-marlin.qmd
           - assessments/blue-shark.qmd
