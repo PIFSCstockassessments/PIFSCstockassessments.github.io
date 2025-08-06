@@ -2,5 +2,4 @@
 title: "Tools & Packages"
 ---
 
-Stock Assessment Software Tools contributed by the Pacific Island Fisheries Science Center and its partners.
-
+Explore the software, R packages, and analytical tools developed by the Pacific Islands Fisheries Science Center and its partners to support fisheries science, from stock assessments to life history research, surveys, and data visualization.
