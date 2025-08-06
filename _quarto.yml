@@ -34,7 +34,7 @@ website:
           - assessments/us-jurisdictional-bottomfish.qmd
       - text: "---"
       - section: "Tools & Packages"
-        href: tools-pkgs/tools-packages.qmd
+        href: tools-pkgs/section-toolsPackages.qmd
         contents:
           - tools-pkgs/ss3diags.qmd
           - tools-pkgs/JABBA.qmd
