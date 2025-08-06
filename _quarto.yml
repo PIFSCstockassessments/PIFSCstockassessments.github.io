@@ -43,7 +43,7 @@ website:
           - tools-pkgs/ss3grid.qmd
       - text: "---"
       - section: "Surveys"
-        href: fish-surveys/surveys.qmd
+        href: fish-surveys/section-surveys.qmd
         contents:
           - fish-surveys/mhi-mrip.qmd
           - fish-surveys/mhi-bottomfish.qmd
