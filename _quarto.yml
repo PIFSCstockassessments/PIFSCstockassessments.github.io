@@ -19,6 +19,15 @@ website:
       - text: "About Us"
         href: about.qmd
       - text: "---"
+      - text: "Life History"
+        href: life-history/section-LifeHistory.qmd
+      - text: "---"
+      - section: "Surveys"
+        href: fish-surveys/section-surveys.qmd
+        contents:
+          - fish-surveys/mhi-mrip.qmd
+          - fish-surveys/mhi-bottomfish.qmd
+      - text: "---"
       - section: "Stock Assessments"
         href: assessments/section-assessments.qmd
         contents:
@@ -41,12 +50,6 @@ website:
           - tools-pkgs/agepro.qmd
           - tools-pkgs/stepwiseLH.qmd
           - tools-pkgs/ss3grid.qmd
-      - text: "---"
-      - section: "Surveys"
-        href: fish-surveys/section-surveys.qmd
-        contents:
-          - fish-surveys/mhi-mrip.qmd
-          - fish-surveys/mhi-bottomfish.qmd
 
 
 format:
