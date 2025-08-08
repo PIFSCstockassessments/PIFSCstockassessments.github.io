@@ -6,7 +6,7 @@ The Assessment & Research (A&R) Branch is part of the Fisheries Research and Mon
 
 We bring together three core programs—Life History, Fisheries-Independent Surveys, and Stock Assessment—to provide the scientific foundation for sustainable fisheries management in the Pacific Islands Region.
 
-Our work spans life history research, population biology, fisheries surveys, and stock assessment. By integrating biological studies with advanced analytical tools and field surveys, we deliver high-quality science that supports both domestic and international fisheries management..
+Our work spans life history research, population biology, fisheries surveys, and stock assessment. By integrating biological studies with advanced analytical tools and field surveys, we deliver high-quality science that supports both domestic and international fisheries management.
 
 ```{r add-disclaimer, echo=FALSE, results='asis'}
 url <- "https://raw.githubusercontent.com/nmfs-fish-tools/Resources/master/Disclaimer.md"
