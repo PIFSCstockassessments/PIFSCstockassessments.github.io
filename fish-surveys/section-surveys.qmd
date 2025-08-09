@@ -4,6 +4,10 @@ title: Fishery Research Surveys
 
 PIFSC conducts a range of fishery‑independent and fishery‑dependent surveys that provide essential data for stock assessments, life history studies, and sustainable fisheries management across the Pacific Islands. Our key surveys include:
 
+::: {style="float:right;width:35%;margin:10px;"}
+![Source: NOAA Fisheries](../assets/img/survey/bfish-tags.jpg){fig-alt="Bottomfish that were caught in a standardized research fishing survey are tagged and laid out on a photomat for length measurements before biological samples are taken for life history research"}
+:::
+
 -   **Bottomfish Fishery‑Independent Surveys (BFISH)**: Conducted around the Main Hawaiian Islands and Guam to estimate bottomfish abundance and size distribution.
 
 -   **Creel Surveys**: Ongoing in Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands (CNMI) to collect catch and effort data from local fishers.
