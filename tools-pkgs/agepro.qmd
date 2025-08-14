@@ -3,7 +3,9 @@ title: AGEPRO
 subtitle: Age Structured Projection Model
 ---
 
+::: {style="float: right; margin 5px"}
 ![](../assets/img/tools-pkgs/noaa-icon-agepro-128.png){fig-alt="Age Structured Projection Model (AGEPRO) Icon"}
+:::
 
 The Age Structured Projection Model (AGEPRO) is a projection model for an age-structured fish stock harvested by one or more fleets.
 
