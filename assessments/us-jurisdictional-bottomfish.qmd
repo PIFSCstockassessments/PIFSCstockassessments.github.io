@@ -2,9 +2,9 @@
 title: United States Jurisdictional Bottomfishes
 ---
 
-The U.S. Jurisdictional bottomfishes are 14 coastal species primarily found in deep-slope habitat around American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands (CNMI). Eleven of these species occur around American Samoa and 13 occur in the Mariana Archipelago. These species are mainly deep snappers from the *Etelis* and *Pristipomoides* genre, in addition to a few emperor, grouper, and jack species. Fishing is an integral part of the heritage, tradition, and culture of the local communities in these Pacific Islands.
+The bottomfish management unit species (BMUS) of the U.S. Jurisdictions in the western Pacific Ocean dwell in deepwater slope habitat and include deepwater snappers from the *Etelis* and *Pristipomoides* genres, in addition to a several emperors, groupers, and jacks. There are 11 federally managed bottomfish species in American Samoa, and 13 in each Guam and the Commonwealth of the Northern Mariana Islands (CNMI). Fishing is an integral part of the heritage, tradition, and culture of the local communities in these Pacific Islands.
 
-Most bottomfishing has traditionally been done with hook-and-lines from small boats with outboard engines, primarily for subsistence or local sale. In recent decades, technology and the increased presence of larger vessels have allowed the fisheries to expand offshore into deeper waters around the islands. These species were previously managed as a multi-species complex by the Western Pacific Regional Fishery Management Council, but recent analyses have been conducted at the species level in certain jurisdiction (American Samoa).
+Most bottomfishing has traditionally been done with hook-and-lines from small boats with outboard engines, primarily for subsistence or local sale. In recent decades, technology and the increased presence of larger vessels have allowed the fisheries to expand offshore into deeper waters around the islands. BMUS were previously managed as a multi-species complex in each jurisdiction by the Western Pacific Regional Fishery Management Council, but the most recent benchmark stock assessment in American Samoa was conducted at the species level. Progress towards the next benchmark stock assessments in Guam and CNMI have also focused on single-species analyses.
 
 ## American Samoa
 
@@ -18,13 +18,31 @@ The stock status in the terminal year (2021) for all nine bottomfish species was
 
 ![Bar chart showing the stock status of 9 bottomfishes in 2021 in two panels. The top panel shows the overfishing status with the F/Fmsy limit as a horizontal dashed line. The bottom panel shows the overfished status, with a horizontal dashed line showing the B/Bmsst limit. None of the 9 bottomfishes are considered overfished or experiencing overfishing.](../assets/img/assessments/jurisdictional-AS1-figure.png) Stock status in 2021 of the nine BMUS species with single-species assessment models in the terminal year of the model.
 
-## Guam and CNMI
+## Guam and CMNI
 
-For the Guam and CNMI bottomfishes, the most recent benchmark assessment was developed in 2019 using a Bayesian surplus-production model ([JABBA](/packages/JABBA/)). These assessments were done at the complex level in each jurisdiction, fitting annual biomass estimates to total catch and catch-per-unit-effort (CPUE) data. Commercial fishing sales receipts and fishery-dependent survey data were used to inform catch estimates and abundance trends.
+There are 13 federally managed bottomfish species in Guam and CNMI: *Aphareus rutilans*, *Caranx ignobilis*, *Caranx lugubris*, *Etelis carbunculus*, *Etelis coruscans*, *Lethrinus rubrioperculatus*, *Lutjanus kasmira*, *Pristipomoides auricilla*, *Pristipomoides filamentosus*, *Pristipomoides flavipinnis*, *Pristipomoides sieboldii*, *Pristipomoides zonatus*, and *Variola louti*. The most recent benchmark stock assessment was developed in 2019 using a Bayesian surplus-production model ([JABBA](/packages/JABBA/)).
 
-For the CNMI, the stock was healthy (not overfished and not experiencing overfishing). For Guam, the stocks were less healthy, overfished but not experiencing overfishing.
+These assessments were done at the complex level in each jurisdiction using catch and catch rate (catch-per-unit-effort, CPUE) data of all BMUS species combined together. The primary data sources were the boat-based creel surveys and commercial fishing sales receipts through the most recently available year of data when the assessments were developed, which was 2017.
+
+### Guam
+
+The Guam BMUS stock assessment was updated in 2024 with catch and CPUE data through 2023. This updated stock assessment suggested that the Guam BMUS were not overfished and were not experiencing overfishing in 2023, which indicated an improvement from the previous benchmark assessment, which had concluded the stock was overfished in 2017.
+
+::: {style="display:block;width:80%;margin:10px;"}
+![Figure. Estimated stock status for bottomfish management unit species in Guam from 1982 through 2023 (see Figure 17 in Bohaboy and Matthews 2024). The 95% credible interval of the year 2023 estimated stock status is shown by the gray shaded region, suggesting that the stock was not overfished and was not experiencing overfishing in 2023.](../assets/img/assessments/us-bfish-guam_2023.png)
+:::
+
+### CMNI
+
+The CNMI BMUS stock assessment was updated in 2025 with catch and CPUE data through 2023. This updated stock assessment suggested that the CNMI BMUS were not overfished and were not experiencing overfishing in 2023.
+
+::: {style="width:80%;margin:10px;"}
+![Figure. Estimated stock status for bottomfish management unit species in CNMI from 2000 through 2023 (see Figure 16 in Bohaboy and Matthews 2025). The 95% credible interval of the year 2023 estimated stock status is shown by the gray shaded region, suggesting that the stock was not overfished and was not experiencing overfishing in 2023.](../assets/img/assessments/us-bfish-cmni_2023.png)
+:::
 
 ## Publications
 
+-   Bohaboy, E. C., and T. Matthews. 2025. Stock Assessment Update of the Bottomfish Management Unit Species of the Commonwealth of the Northern Mariana Islands , 2025 Stock Assessment Update of the Bottomfish Management Unit Species of the Commonwealth of the Northern Mariana Islands , 2025. <https://doi.org/10.25923/jjqw-sr33>.
+-   Bohaboy, E. C., and T. Matthews. 2024. Stock assessment update of the Bottomfish Management Unit Species of Guam, 2024. NOAA Technical Memorandum TM-PIFSC-162. <https://doi.org/10.25923/rmxw-gh78>.
 -   Nadon, Marc O. et al. (2023). Stock Assessment of American Samoa Bottomfishes, 2023. <https://doi.org/10.25923/0sd4-9a69>
 -   Langseth, Brian J. et al. (2019). Stock assessments of the bottomfish management unit species of Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa, 2019. <https://doi.org/10.25923/bz8b-ng72>
