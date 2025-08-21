@@ -42,6 +42,9 @@ website:
           - assessments/uku-snapper.qmd
           - assessments/us-jurisdictional-bottomfish.qmd
       - text: "---"
+      - text: "Interactive Science"
+        href: interact-sci/section-InteractSci.qmd
+      - text: "---"
       - section: "Tools & Packages"
         href: tools-pkgs/section-toolsPackages.qmd
         contents:
