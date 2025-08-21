@@ -18,6 +18,6 @@ The benchmark assessment indicated the main Hawaiian Islands Deep 7 complex was 
 
 A research track stock assessment was initiated for the main Hawaiian Islands bottomfish complex in 2024. Research objectives include improving the estimation of noncommercial catch, optimizing the Bottomfish Fishery-independent Survey in Hawaii (BFISH), and assessing the need and feasibility for transitioning to single-species or subcomplexes for assessment and management. The fishing community and State of Hawaii are important partners in this research.
 
-Recently, an approach was developed to estimate the recreational component of the Deep 7 fishery that relies on using the Bottomfish Vessel Registry. An \[interactive web application\] (i.e., Shiny app) was developed to aid in assessing the effects of decision points on the estimated recreational catch using the new approach.
+Recently, an approach was developed to estimate the recreational component of the Deep 7 fishery that relies on using the Bottomfish Vessel Registry.[The Deep 7 Catch Analysis Tool](https://connect.fisheries.noaa.gov/content/093fc1b8-928f-4ee0-8c3d-bae82dc78295), an iteractive shiny web application, was developed to aid in assessing the effects of decision points on the estimated recreational catch using the new approach.
 
 Simulation studies are currently underway to determine the optimal allocation of effort in the BFISH survey to inform stock assessment and the optimal degree of species resolution for assessing the complex.
