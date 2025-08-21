@@ -1,6 +1,11 @@
 ---
 title: "PIFSC Stock Assessments"
 subtitle: "Advancing Assessment Science in the Pacific Islands"
+format:
+  html:
+    other-links:
+      - text: NOAA PIFSC
+        href: https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center
 ---
 
 <!-- To compile Quarto Website knit index.qmd or _quarto.yml -->
