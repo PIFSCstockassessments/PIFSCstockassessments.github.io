@@ -6,13 +6,11 @@ title: ss3diags
 ![](../assets/img/tools-pkgs/ss3diags-logo.png){fig-alt="ss3diags - Advanced diagnostics to evaluate a Stock Synthesis model"}
 :::
 
-ss3diags is an R package with advanced diagnostics to evaluate a Stock Synthesis model. Diagnostics include residual analyses, hindcasting and cross-validation techniques, and retrospective analyses
-
-The R package ss3diags enables users to apply advanced diagnostics to evaluate a [Stock Synthesis](https://github.com/nmfs-stock-synthesis/stock-synthesis) model. Diagnostics include residual analyses, hindcasting and cross-validation techniques, and retrospective analyses. ss3diags also allow users to reproduce the key model diagnostics plots that presented in the paper [*A Cookbook for Using Model Diagnostics in Integrated Stock Assessments*](https://doi.org/10.1016/j.fishres.2021.105959).
+The R package ss3diags enables users to apply advanced diagnostics to evaluate a [Stock Synthesis](https://github.com/nmfs-stock-synthesis/stock-synthesis) model. Key functions include running and visualizations of diagnostic tests such as residual analyses, hindcasting cross-validation techniques, and retrospective analyses, as presented in the paper [*A Cookbook for Using Model Diagnostics in Integrated Stock Assessments*](https://doi.org/10.1016/j.fishres.2021.105959). The package works closely with [r4ss](https://github.com/r4ss/r4ss) to make a seamless workflow for the users to evaluate the statistical robustness of their stock assessment model.
 
 # ss3diags R package
 
-[ss3diags github page (PIFSCstockassessments)](https://pifscstockassessments.github.io/ss3diags/)
+[ss3diags github page (NMFS-OST)](https://nmfs-ost.github.io/ss3diags/)
 
 # Reference
 
