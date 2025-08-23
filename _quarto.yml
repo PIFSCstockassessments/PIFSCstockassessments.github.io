@@ -52,7 +52,8 @@ website:
           - tools-pkgs/JABBA.qmd
           - tools-pkgs/agepro.qmd
           - tools-pkgs/stepwiseLH.qmd
-          - tools-pkgs/ss3grid.qmd
+          - tools-pkgs/LHsampling.qmd
+
 
 
 format:

@@ -1,0 +1,14 @@
+---
+title: "LHsampling"
+format: html
+---
+
+LHsampling is an R package that helps users understand and minimize potential bias in the estimation of von Bertalanffy growth parameters based on fish life history and sampling strategies. The package offers an individual-based model (IBM) incorporating within-population variability in von Bertalanffy growth, size-at-age-dependent natural mortality, and a size-selective fishery to simulate an exploited fish population and catch (harvest). A bootstrap algorithm allows the user to investigate various sampling approaches including sampling strategy (proportional or fixed otolith sampling, POS or FOS, respectively), sample size, supplementation with fishery-independent sampling, and assumptions regarding von Bertalanffy t0 and the relationship between variance of length at age and age. The package also provides functions to produce plots of the simulated fish populations and bootstrap sampling results.
+
+## Repository
+
+<https://github.com/NOAA-LHP/LHsampling>
+
+## References
+
+-   Schemmel, E., E. C. Bohaboy, M. J. Kinney, and J. M. O’Malley. 2022. An assessment of sampling approaches for estimating growth from fishery-dependent biological samples. ICES Journal of Marine Science 79:1497–1514. <https://doi.org/10.1093/icesjms/fsac075>.
