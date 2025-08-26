@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/tools-pkgs/stepwiseLH.html</loc>
-    <lastmod>2025-08-01T21:32:12.117Z</lastmod>
+    <lastmod>2025-08-26T01:56:04.314Z</lastmod>
   </url>
   <url>
     <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/tools-pkgs/ss3diags.html</loc>
     <lastmod>2025-08-22T00:48:04.867Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/tools-pkgs/JABBA.html</loc>
-    <lastmod>2025-08-14T01:30:51.348Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/tools-pkgs/LHsampling.html</loc>
+    <lastmod>2025-08-23T00:38:34.415Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/life-history/section-LifeHistory.html</loc>
-    <lastmod>2025-08-13T01:03:10.470Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/tools-pkgs/agepro.html</loc>
+    <lastmod>2025-08-14T01:32:13.975Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/interact-sci/section-InteractSci.html</loc>
-    <lastmod>2025-08-21T01:48:00.438Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/LICENSE.html</loc>
+    <lastmod>2025-08-05T21:22:32.091Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/fish-surveys/section-surveys.html</loc>
-    <lastmod>2025-08-13T01:03:13.231Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/index.html</loc>
+    <lastmod>2025-08-21T02:07:32.071Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/fish-surveys/mhi-bottomfish.html</loc>
-    <lastmod>2025-08-01T21:32:12.110Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/fish-surveys/mhi-mrip.html</loc>
+    <lastmod>2025-08-01T21:32:12.111Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/us-jurisdictional-bottomfish.html</loc>
-    <lastmod>2025-08-21T21:24:38.667Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/Disclaimer.html</loc>
+    <lastmod>2025-08-05T21:22:32.084Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/swordfish.html</loc>
-    <lastmod>2025-08-01T21:32:12.103Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/uku-snapper.html</loc>
+    <lastmod>2025-08-26T02:47:07.925Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/section-assessments.html</loc>
-    <lastmod>2025-08-06T20:27:02.140Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/striped-marlin.html</loc>
+    <lastmod>2025-08-01T21:32:12.102Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/mhi-deep7-bottomfish.html</loc>
-    <lastmod>2025-08-21T01:24:53.936Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/reeffish.html</loc>
+    <lastmod>2025-08-01T21:32:12.102Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/kona-crab.html</loc>
-    <lastmod>2025-08-01T21:32:12.100Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/mako-shark.html</loc>
+    <lastmod>2025-08-26T21:12:06.920Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/blue-marlin.html</loc>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/blue-shark.html</loc>
     <lastmod>2025-08-01T21:32:12.099Z</lastmod>
   </url>
   <url>
@@ -57,44 +57,48 @@
     <lastmod>2025-08-08T23:10:46.782Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/blue-shark.html</loc>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/blue-marlin.html</loc>
     <lastmod>2025-08-01T21:32:12.099Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/mako-shark.html</loc>
-    <lastmod>2025-08-01T21:32:12.101Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/kona-crab.html</loc>
+    <lastmod>2025-08-25T20:40:15.265Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/reeffish.html</loc>
-    <lastmod>2025-08-01T21:32:12.102Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/mhi-deep7-bottomfish.html</loc>
+    <lastmod>2025-08-21T01:24:53.936Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/striped-marlin.html</loc>
-    <lastmod>2025-08-01T21:32:12.102Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/section-assessments.html</loc>
+    <lastmod>2025-08-06T20:27:02.140Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/uku-snapper.html</loc>
-    <lastmod>2025-08-01T21:32:12.104Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/swordfish.html</loc>
+    <lastmod>2025-08-01T21:32:12.103Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/Disclaimer.html</loc>
-    <lastmod>2025-08-05T21:22:32.084Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/assessments/us-jurisdictional-bottomfish.html</loc>
+    <lastmod>2025-08-21T21:24:38.667Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/fish-surveys/mhi-mrip.html</loc>
-    <lastmod>2025-08-01T21:32:12.111Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/fish-surveys/mhi-bottomfish.html</loc>
+    <lastmod>2025-08-01T21:32:12.110Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/index.html</loc>
-    <lastmod>2025-08-21T02:07:32.071Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/fish-surveys/section-surveys.html</loc>
+    <lastmod>2025-08-13T01:03:13.231Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/LICENSE.html</loc>
-    <lastmod>2025-08-05T21:22:32.091Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/interact-sci/section-InteractSci.html</loc>
+    <lastmod>2025-08-21T01:48:00.438Z</lastmod>
   </url>
   <url>
-    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/tools-pkgs/agepro.html</loc>
-    <lastmod>2025-08-14T01:32:13.975Z</lastmod>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/life-history/section-LifeHistory.html</loc>
+    <lastmod>2025-08-13T01:03:10.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/tools-pkgs/JABBA.html</loc>
+    <lastmod>2025-08-14T01:30:51.348Z</lastmod>
   </url>
   <url>
     <loc>https://PIFSCstockassessments.github.io/quarto-website-proto/tools-pkgs/section-toolsPackages.html</loc>

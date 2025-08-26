@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Hawaii Bottomfish Surveys – PIFSC Stock Assessments</title>
+<title>LHsampling – PIFSC Stock Assessments</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../fish-surveys/section-surveys.html">Surveys</a></li><li class="breadcrumb-item"><a href="../fish-surveys/mhi-bottomfish.html">Hawaii Bottomfish Surveys</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../tools-pkgs/section-toolsPackages.html">Tools &amp; Packages</a></li><li class="breadcrumb-item"><a href="../tools-pkgs/LHsampling.html">LHsampling</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -147,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../fish-surveys/mhi-bottomfish.html" class="sidebar-item-text sidebar-link active">
+  <a href="../fish-surveys/mhi-bottomfish.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Hawaii Bottomfish Surveys</span></a>
   </div>
 </li>
@@ -268,7 +268,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../tools-pkgs/LHsampling.html" class="sidebar-item-text sidebar-link">
+  <a href="../tools-pkgs/LHsampling.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">LHsampling</span></a>
   </div>
 </li>
@@ -284,16 +284,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#survey-details" id="toc-survey-details" class="nav-link active" data-scroll-target="#survey-details">Survey Details</a></li>
+  <li><a href="#repository" id="toc-repository" class="nav-link active" data-scroll-target="#repository">Repository</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../fish-surveys/section-surveys.html">Surveys</a></li><li class="breadcrumb-item"><a href="../fish-surveys/mhi-bottomfish.html">Hawaii Bottomfish Surveys</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../tools-pkgs/section-toolsPackages.html">Tools &amp; Packages</a></li><li class="breadcrumb-item"><a href="../tools-pkgs/LHsampling.html">LHsampling</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Hawaii Bottomfish Surveys</h1>
+<h1 class="title">LHsampling</h1>
 </div>
 
 
@@ -310,17 +311,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The Bottomfish Fishery-Independent Survey in Hawai‘i (BFISH) is a collaborative survey conducted annually since 2016, by researchers at the Pacific Islands Fisheries Science Center and local cooperative research fishers.</p>
-<p>The goal of the survey is to provide fishery-independent estimates of bottomfish abundance for use in the Deep 7 bottomfish stock assessment.</p>
-<section id="survey-details" class="level2">
-<h2 class="anchored" data-anchor-id="survey-details">Survey Details</h2>
-<p>This survey comprises two gear types:</p>
-<ol type="1">
-<li>Hook and line fishing conducted by cooperative research fishers.</li>
-<li>Underwater stereo-cameras called MOUSS (Modular Optical Underwater Survey System).</li>
-</ol>
-<p>Sampling locations are chosen at random each year based on habitat type. During the survey period, which typically runs from August through October, fishing for bottomfish occurs for 30 minutes at each location using two lines, each baited with four standard-size hooks. PIFSC researchers also deploy cameras from a NOAA research vessel. For both gear types, all fish caught or seen are recorded, counted, and measured.</p>
-<p><a href="https://www.fisheries.noaa.gov/feature-story/imaged-depths-survey-bottomfish-main-hawaiian-islands">Learn more about the Hawaii Bottomfish Survey (NOAA Fisheries)</a></p>
+<p>LHsampling is an R package that helps users understand and minimize potential bias in the estimation of von Bertalanffy growth parameters based on fish life history and sampling strategies. The package offers an individual-based model (IBM) incorporating within-population variability in von Bertalanffy growth, size-at-age-dependent natural mortality, and a size-selective fishery to simulate an exploited fish population and catch (harvest). A bootstrap algorithm allows the user to investigate various sampling approaches including sampling strategy (proportional or fixed otolith sampling, POS or FOS, respectively), sample size, supplementation with fishery-independent sampling, and assumptions regarding von Bertalanffy t0 and the relationship between variance of length at age and age. The package also provides functions to produce plots of the simulated fish populations and bootstrap sampling results.</p>
+<section id="repository" class="level2">
+<h2 class="anchored" data-anchor-id="repository">Repository</h2>
+<p><a href="https://github.com/NOAA-LHP/LHsampling" class="uri">https://github.com/NOAA-LHP/LHsampling</a></p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<ul>
+<li>Schemmel, E., E. C. Bohaboy, M. J. Kinney, and J. M. O’Malley. 2022. An assessment of sampling approaches for estimating growth from fishery-dependent biological samples. ICES Journal of Marine Science 79:1497–1514. <a href="https://doi.org/10.1093/icesjms/fsac075" class="uri">https://doi.org/10.1093/icesjms/fsac075</a>.</li>
+</ul>
 
 
 </section>
