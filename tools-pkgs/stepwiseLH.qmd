@@ -3,7 +3,7 @@ title: StepwiseLH
 subtitle: Life History Stepwise Probability Distributions based on data-limited fisheries
 ---
 
-This R package allows fisheries scientists to generate probability distributions for missing life history parameters of sharks, groupers, and other taxa to assist data-limited stock assessments
+This R package allows fisheries scientists to generate probability distributions for missing life history parameters of sharks, groupers, and other taxa to assist data-limited stock assessments. It uses the statistical relationship between pairs of life history parameters to make inferences about unknown ones, based on published life history studies.
 
 ## Repository
 
