@@ -61,7 +61,7 @@ format:
     theme:
       light: [flatly, theme.scss]
       dark: [darkly, theme-dark.scss]
-    toc: true
+    toc: false
 
 editor:
   mode: source

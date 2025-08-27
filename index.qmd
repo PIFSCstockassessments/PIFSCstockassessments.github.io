@@ -12,23 +12,23 @@ format:
 
 We combine life history research, population modeling, and innovative fisheries surveys to understand the health of coastal and pelagic fish stocks. Our work provides the high-quality science needed to support sustainable fisheries across the Pacific Islands.
 
-### Life History Research
+#### Life History Research
 
 Explore the data, methods, and findings behind our life history studies, which provide the foundation for understanding Pacific Island fish populations.
 
-### Stock Assessments
+#### Stock Assessments
 
 Explore the latest stock assessments for Pacific Island and oceanic fisheries, including the data, models, and scripts used to produce them. Our work supports both domestic and international fisheries management.
 
-### Fisheries Tools & Packages
+#### Fisheries Tools & Packages
 
 Explore innovative analytical tools and software packages developed by our Assessment and Research Branch to support fisheries research and management.
 
-### Surveys
+#### Surveys
 
 Explore the fishery-independent and fishery-dependent surveys conducted by the Pacific Islands Fisheries Science Center to monitor fish populations across the region.
 
-### Interactive Science Tools
+#### Interactive Science Tools
 
 Access interactive Shiny apps, public websites, and other open science tools designed to share our research and make Pacific Islands fisheries science accessible to everyone.
 
