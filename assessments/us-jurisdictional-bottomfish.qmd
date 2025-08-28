@@ -1,5 +1,8 @@
 ---
 title: United States Jurisdictional Bottomfishes
+format:
+  html:
+    toc: true
 ---
 
 The bottomfish management unit species (BMUS) of the U.S. Jurisdictions in the western Pacific Ocean dwell in deepwater slope habitat and include deepwater snappers from the *Etelis* and *Pristipomoides* genres, in addition to a several emperors, groupers, and jacks. There are 11 federally managed bottomfish species in American Samoa, and 13 in each Guam and the Commonwealth of the Northern Mariana Islands (CNMI). Fishing is an integral part of the heritage, tradition, and culture of the local communities in these Pacific Islands.
