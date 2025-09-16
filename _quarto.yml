@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  title: "PIFSC Stock Assessments"
+  title: "PIFSC <br />Assessment and Research Branch"
 
   sidebar:
-    title: "PIFSC Stock Assessments"
+    title: ""
     style: "docked"
     background: "light"
     align: left
