@@ -12,7 +12,7 @@ website:
     tools:
       - icon: github
         text: "Source Code"
-        href: https://github.com/PIFSCstockassessments/quarto-website-proto
+        href: https://github.com/PIFSCstockassessments/PIFSCstockassessments.github.io
     contents:
       - text: "Index"
         href: index.qmd
